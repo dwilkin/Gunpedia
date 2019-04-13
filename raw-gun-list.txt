@@ -1,0 +1,2720 @@
+==List of guns==
+{| class="wikitable sortable" style="text-align:center"
+|-
+! Icon !! Name !! Quote !! Quality!! Type
+! data-sort-type="number" | Magazine Size
+! data-sort-type="number" | Ammo Capacity 
+! Damage
+! {{Hover|Fire Rate|Delay between shots; lower number means higher fire rate}}
+! {{Hover|Reload Time|Number of seconds it takes to reload}}
+! Shot Speed
+! Range
+! Force 
+! {{Hover|Spread|Higher number means less accuracy}}
+! Notes
+|-
+|[[File:Rusty Sidearm.png|32px]] || [[Rusty Sidearm]] || Still Works. Mostly. 
+|| {{Quality|N}} || Semiautomatic || 6 || {{Infinity}} 
+|6
+|0.20
+|1.2
+|16
+|16
+|10
+|7|| Starting gun of [[The Hunter]]. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Marine Sidearm.png|32px]] || [[Marine Sidearm]] || Always With You 
+|| {{Quality|N}} || Semiautomatic || 10 || {{Infinity}} 
+|5
+|0.25
+|1.2
+|25
+|18
+|12
+|5
+|| Starting gun of [[The Marine]]. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Rogue Special.png|32px]] || [[Rogue Special]] || Underhanded And Efficient 
+|| {{Quality|N}} || Semiautomatic || 8 || {{Infinity}} 
+|5
+|0.25
+|1.2
+|22
+|13
+|6
+|10|| Fires short-range, inaccurate lasers. Starting gun of [[The Pilot]]. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Budget Revolver.png|32px]] || [[Budget Revolver]] || Affordable Arms 
+|| {{Quality|N}} || Semiautomatic || 5 || {{Infinity}} 
+|6
+|0.15
+|0.9
+|23
+|18
+|10
+|10|| Starting gun of [[The Convict]]. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Dart Gun.png|32px]] || [[Dart Gun]] || Sticky 
+|| {{Quality|N}} || Semiautomatic || 6 || {{Infinity}} 
+|6
+|0.20
+|1.0
+|20
+|25
+|2
+|5
+|| Fires sticky darts. Starting gun of [[The Cultist]]. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Robot's Right Hand.png|32px]] || [[Robot's Right Hand]] || Built To Kill 
+|| {{Quality|N}} || Semiautomatic || 20 || {{Infinity}} 
+|5
+|0.20
+|1.2
+|25
+|20
+|10
+|7|| Starting gun of [[The Robot]]. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Blasphemy.png|32px]] || [[Blasphemy]] || To The Point 
+|| {{Quality|B}} || Semiautomatic || N/A || {{Infinity}} 
+|14
+|0.20
+|1.0
+|26
+|{{Infinity}}
+|10
+|10|| Starting weapon of [[The Bullet]]. Swings destroy nearby bullets. At full health, swings send out a piercing sword projectile. Does not crack [[Secret Rooms|secret walls]].
+|-
+| [[File:Casey.png|32px]] || [[Casey]] || Batting .50 || {{Quality|D}} || Charged || 1 || {{Infinity}}
+|100
+|
+|
+|
+|
+|
+|
+| Charged swings reflect nearby bullets. Does not crack [[Secret Rooms|secret walls]]. Increases [[curse]] by 2. 
+|-
+|[[File:Pea Shooter.png|32px]] || [[Pea Shooter]] || Baby's First Gun 
+|| {{Quality|D}} || Semiautomatic || 6 || 1000 
+|4
+|0.15
+|1.5
+|20
+|20
+|3
+|10|| Fires peas. 
+|-
+|[[File:38 Special.png|32px]] || [[38 Special]] || For The Inquisitive 
+|| {{Quality|D}} || Semiautomatic || 6 || 350 
+|5
+|0.07
+|0.78
+|23
+|35
+|10
+|5||  Fires faster right after a dodge roll.
+|-
+|[[File:Derringer.png|32px]] || [[Derringer]] || One Last Trick 
+|| {{Quality|D}} || Semiautomatic || 2 || 200 
+|10
+|0.07
+|1.2
+|23
+|60
+|30
+|6|| 
+|-
+|[[File:Slinger.png|32px]] || [[Slinger]] || Farewell to arms
+|| {{Quality|N}} || Semiautomatic || 7 || {{Infinity}}
+|6 (bullet)<br>4 (gun)
+|
+|
+|
+|
+|
+|
+|| Starting weapon of [[The Gunslinger]]. Reloading throws the gun, which has a chance to stun enemies. Does not crack [[Secret Rooms|secret walls]].
+|-
+|[[File:Unfinished Gun.png|32px]] || [[Unfinished Gun]] || Still Warm 
+|| {{Quality|D}} || Semiautomatic || 15 || 350 
+|6
+|0.20
+|1.5
+|15
+|35
+|6
+|15
+|| Fires piercing bullets.
+|-
+|[[File:Finished Gun.png|32px]] || [[Finished Gun]] || Thanks For Playing
+||{{Quality|S}}
+|Semiautomatic
+|5
+|500
+|
+|
+|
+|
+|
+|
+|
+|| Replaces Unfinished Gun once the Ammonomicon is complete.
+|-
+|[[File:Elimentaler.png|32px]]
+|[[Elimentaler]]
+|Full of Holes
+|{{Quality|S}}
+|Semiautomatic
+|15
+|{{Infinity}}
+|5.5
+|0.22
+|1.2
+|
+|
+|
+|
+|Encases enemies in cheese, freezing them. Enemies that die while cheesed spawn a large cheese pool, which cheeses any enemies that step in it.
+|-
+|[[File:Bullet (Gun).png|32px]] || [[Bullet]] || Fires Guns
+| {{Quality|C}}
+|| Semiautomatic || 6 || 250
+| Gun: 7<br>Bullet: 4
+|0.2
+|1.0
+|
+|
+|
+|
+| Fires rotating guns which fire bullets as they travel.
+|-
+|[[File:Shell.png|32px]]
+|[[Shell]]
+|Fires Shotguns
+|{{Quality|B}}
+|Semiautomatic
+|6
+|150
+|Shotguns: 8<br>Bullets: 4
+|0.5
+|1.4
+|
+|
+|
+|
+|Fires three shotguns, each of which fires three bullets upon hitting something.
+|-
+| [[File:Hyper Light Blaster.png|32px]] || [[Hyper Light Blaster]] || Skill Honed Sharp || {{Quality|B}} || Semiautomatic ||  12
+||12
+|20
+|0.15
+|1.5
+|
+|
+|
+|
+| Has very low ammo, but regenerates 1 ammo if a shot hits an enemy.
+|-
+| [[File:Boxing Glove.png|32px]] || [[Boxing Glove]] || Pistol Hondo || {{Quality|C}} || Charged || 350
+|| 350
+| Regular: 12<br>Super: 200
+|0.40
+|
+|
+|
+|
+|
+| Shoots a boxing glove with a chance to [[stun]]. Gains a star each time it kills an enemy, up to 3. When at 3 stars, can be charged to consume the stars and fire a high-damage super punch. Increases [[curse]] by 1.
+|-
+|[[File:Makarov.png|32px]] || [[Makarov]] || The People's Gun 
+|| {{Quality|D}} || Semiautomatic || 7 || 350 
+|5
+|0.15
+|1.2
+|23
+|60
+|10
+|4||  
+|-
+| [[File:Trank Gun.png|32px]] || [[Trank Gun]] || Non Non Lethal ||  || ||  || 
+|
+|
+|
+|
+|
+|
+|
+| Stuns enemies.
+|-
+|[[File:M1911.png|32px]] || [[M1911]] || Classic 
+|| {{Quality|C}} || Semiautomatic || 7 || 200 
+|8
+|0.15
+|1.2
+|23
+|60
+|30
+|6|| 
+|-
+|[[File:Magnum.png|32px]] || [[Magnum]] || 5 Shots Or 6? 
+|| {{Quality|B}} || Semiautomatic || 6 || 140 
+|13
+|0.15
+|1.0
+|23
+|60
+|30
+|7|| 
+|-
+|[[File:Colt 1851.png|32px]] || [[Colt 1851]] || You Dig 
+|| {{Quality|C}} || Burst || 12 || 350 
+|6
+|0.21
+|1.5
+|25
+|{{Infinity}}
+|10
+|8|| Fires a burst of two bullets.
+|-
+|[[File:SAA.png|32px]] || [[SAA]] || Exhilarating Reload Time 
+|| {{Quality|B}} || Semiautomatic ||  6
+||  200
+|Direct: 8
+Bounce: 12
+|0.12
+|0.6
+|25
+|{{Infinity}}
+|14
+|0||Fires bouncing bullets that aim towards enemies after bouncing.
+|-
+|[[File:Cold 45.png|32px]] || [[Cold 45]] || Shatterday Night Special 
+|| {{Quality|B}} || Semiautomatic || 12 || 350 
+|6
+|0.15
+|1.2
+|28
+|35
+|10
+|6|| Fires bullets that freeze enemies.
+|-
+|[[File:Polaris.png|32px]] || [[Polaris]] || Storied 
+|| {{Quality|B}} || Semiautomatic || 12 || 450 
+|Level 1: 5
+Level 2: 12 (6x2)
+
+Level 3: 20
+|0.25
+|0.6
+|40
+|{{Infinity}}
+|30
+|5|| Has 3 levels. Killing enough enemies causes the gun to level up, increasing its damage. Taking damage decreases its level by 1. 
+|-
+|[[File:Jolter.png|32px]] || [[Jolter]] || .95 Caliber 
+|| {{Quality|B}} || Semiautomatic || 12 || 200 
+|13
+|0.25
+|1.2
+|25
+|25
+|50
+|10|| Fires large and rectangular bullets with high knockback.
+|-
+|[[File:Dungeon Eagle.png|32px]] || [[Dungeon Eagle]] || Caw! 
+|| {{Quality|C}} || Charged || 9 || 200 
+|Uncharged: 10
+Charged: 20
+|0.20
+|1.2
+|25
+|60
+|10
+|10|| Can be charged to fire more powerful shots.
+|-
+|[[File:Grey Mauser (Gun).png|32px]] || [[Grey Mauser]] || Silent And Deadly 
+|| {{Quality|B}} || Semiautomatic ||10|| 100 
+|8
+|0.10
+|1.5
+|32
+|{{Infinity}}
+|9
+|8
+|| Reloading an empty clip makes the player invisible. Can be used to steal from shops.
+|-
+| [[File:Vorpal Gun.png|32px]] || [[Vorpal Gun]] || .50 Criticaliber || {{Quality|B}} || Semiautomatic || 6 || 250
+|5
+|0.10
+|0.90
+|
+|
+|
+|
+| Has a chance to fire a critical shot which deals 20 times its damage.
+|-
+|[[File:High Kaliber.png|32px]]
+|[[High Kaliber|High Kailber]]
+|Soul Reaver
+|{{Quality|A}}
+|Semiautomatic
+|
+|666
+|
+|
+|
+|
+|
+|
+|
+| Causes enemy souls to leave their bodies. Touching a soul deals high damage to the enemy.
+|-
+|[[File:Shellegun.png|32px]] || [[Shellegun]] || Circle Of Death 
+|| {{Quality|B}} || Semiautomatic || 12 (pistol)<br>20 (beam) || 300
+|8
+|0.10
+|1.08
+|25
+|30
+|22
+|5|| Reloading alternates between a pistol and a continuous beam. Increases [[curse]] by 1.
+|-
+|[[File:Dueling Pistol.png|32px]] || [[Dueling Pistol]] || Ricochet 
+|| {{Quality|D}} || Semiautomatic || 1 || 120 
+|10
+|0.20
+|1.2
+|30
+|{{Infinity}}
+|15
+|8|| Fires large piercing bullets that bounce twice.
+|-
+|[[File:AU Gun.png|32px]] || [[AU Gun]] || Some Assembly Required 
+|| {{Quality|S}} || Semiautomatic || 1 || 22 
+|100
+|0.20
+|1.2
+|25
+|{{Infinity}}
+|10
+|0|| Fires a single powerful bullet.
+|-
+|[[File:Big Iron.png|32px]] || [[Big Iron]] || Heavy 
+|| {{Quality|B}} || Semiautomatic || 6 || 150 
+|21
+(7x3)
+|0.33
+|1.2
+|16
+|16
+|10
+|4|| Fires a random spread of three bullets.
+|-
+|[[File:Composite Gun.png|32px]] || [[Composite Gun]] || Undetectable 
+|| {{Quality|S}} || Charged || 2 || 50 
+|Uncharged: 40
+Charged: 100
+|0.20
+|0.6
+|25
+|{{Infinity}}
+|10
+|0||Charged shot consumes all ammo in magazine and will activate a [[Blanks|blank]] effect when it hits a wall.
+|-
+|[[File:Flare Gun.png|32px]] || [[Flare Gun]] || Over Here 
+|| {{Quality|D}} || Semiautomatic || 1 || 150 
+|13
+|0.10
+|0.8
+|23
+|{{Infinity}}
+|35
+|6|| Fires bullets that have a chance to [[burn]] enemies.
+|-
+|[[File:Smiley's Revolver.png|32px]] || [[Smiley's Revolver]] || All Smiles 
+|| {{Quality|B}} || Semiautomatic || 6 || 250
+|9
+|0.10
+|0.7
+|23
+|60
+|30
+|6|| Decreases shop prices while held.
+Fire rate increased shortly after rolling.
+|-
+|[[File:Shades's Revolver.png|32px]] || [[Shades's Revolver]] || Someone Loses An Eye 
+|| {{Quality|C}} || Semiautomatic || 6 || 150 
+|15
+|0.30
+|1.5
+|23
+|60
+|30
+|6
+|| Increases [[coolness]] by 3.
+|-
+|[[File:Knight's Gun.png|32px]]  ||[[Knight's Gun]]||Plowshare
+|{{Quality|A}}|| Semiautomatic|| 6 || 180
+|
+|
+|
+|
+|
+|
+|
+|Fires five bullets in an arrow shape. Gains some pickups when reloading an empty clip.
+|-
+| [[File:GuNNER.png|32px]] || [[GuNNER]] || Backpack Not Included ||{{Quality|B}}|| Semiautomatic|| 12 || 200
+|13.5
+|
+|1.0
+|
+|
+|
+|
+| Taking damage while GuNNER is held drains 40 ammo and drops a skull that heals the player upon pickup.
+|-
+|[[File:Regular Shotgun.png|32px]] || [[Regular Shotgun]] || Cocked And Loaded 
+|| {{Quality|D}} || Semiautomatic || 8 || 150 
+|24
+
+(4x6)
+|0.60
+|1.8
+|23
+|60
+|30
+|10|| 
+|-
+|[[File:Big Shotgun.png|32px]]
+|[[Big Shotgun]]
+|A Shotgun That's Big
+|{{Quality|A}}
+|Semiautomatic
+|5
+|40
+|Large: 45 (15x3)<br>Small: 5.5
+|0.6
+|2.1
+|
+|
+|
+|
+|Fires three exploding shots that burst into bullets. Reloading next to [[Shotgun Kin]] sucks them up, killing them and restoring 1 ammo.
+|-
+|[[File:Old Goldie.png|32px]] || [[Old Goldie]] || For The Discerning 
+|| {{Quality|A}} || Semiautomatic || 4 || 70 
+|35
+
+(3.5x10)
+|0.50
+|1.2
+|23
+|60
+|30
+|5|| Increases [[coolness]] by 1.
+|-
+|[[File:Sawed-Off.png|32px]] || [[Sawed-Off]] || No Butts About It 
+|| {{Quality|D}} || Semiautomatic || 6 || 150 
+|16
+(4x4)
+|0.50
+|1.2
+|23
+|60
+|30
+|8|| Starting gun of [[The Convict]].
+|-
+|[[File:Winchester.png|32px]] || [[Winchester]] || Better Than A Box Of Roses 
+|| {{Quality|C}} || Semiautomatic || 8 || 100 
+|24
+(4x6)
+|0.60
+|1.7
+|23
+|60
+|30
+|7
+|| 
+|-
+|[[File:Rattler.png|32px]] || [[Rattler]] || Snakes On A Gun 
+|| {{Quality|B}} || Semiautomatic || 8 || 200 
+|21
+(3x7)
+|0.20
+|1.2
+|23
+|60
+|30
+|0
+|| Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies.
+|-
+|[[File:Bubble Blaster.png|32px]]
+|[[Bubble Blaster]]
+|The Suds
+|{{Quality|C}}
+|Automatic
+|100
+|500
+|12
+|0.12
+|1.4
+|
+|
+|
+|
+|Fires bubbles which move slowly towards enemies. Reloading the gun launches bubbles away from the player at high speed.
+|-
+|[[File:Elephant Gun.png|32px]] || [[Elephant Gun]] || Shoots Elephants 
+|| {{Quality|C}} || Semiautomatic || 2 || 120 
+|33
+(5.5x6)
+|0.60
+|1.5
+|23
+|60
+|30
+|0
+|| Fires a cone spread of bullets with high knockback.
+|-
+|[[File:Tangler.png|32px]] || [[Tangler]] || Get Wrecktangled 
+|| {{Quality|C}} || Semiautomatic ||4||150
+|36
+
+(6x6)
+|0.60
+|1.5
+|23
+|60
+|30
+|10
+|| Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle. 
+|-
+|[[File:Void Shotgun.png|32px]] || [[Void Shotgun]] || CQC 
+|| {{Quality|B}} || Semiautomatic || 4 || 120 
+|30
+(5x6)
+|0.40
+|1.2
+|23
+|60
+|30
+|0|| Fires 6 purple bullets with high knockback.
+|-
+|[[File:Mass Shotgun.png|32px]] || [[Mass Shotgun]] || My Favorite Gun 
+|| {{Quality|B}} || Semiautomatic || 1 || 200 
+|Ball: 30
+
+Split: 72 (6x12)
+|0.40
+|1.2
+|23
+|60
+|30
+|0|| Shoots a large slow projectile that will split up in a barrage of small bullets shortly afterwards. 
+|-
+|[[File:Shotgun Full of Hate.png|32px]] || [[Shotgun Full of Hate]] || Hate Is Power! 
+|| {{Quality|A}} ||  Semiautomatic
+||  8
+||  150
+|6x4 (bullets) + 5 (skull) + 3 (nail)
+|0.45
+|1.2
+|23
+|60
+|30
+|14
+|| Shoots a shotgun burst of skulls, nails, regular bullets, and poison bullets that leave pools of poison goop. 
+|-
+|[[File:Shotgun Full of Love.png|32px]] || [[Shotgun Full of Love]] || Kill With Kindness 
+|| {{Quality|A}} || Semiautomatic || 8 || 120 
+|30
+
+(5x6)
+|0.45
+|1.2
+|23
+|60
+|30
+|14|| Has a chance to [[Charm]] enemies.
+|-
+|[[File:Shotgrub.png|32px]] || [[Shotgrub]] || No Worries! 
+|| {{Quality|C}} || Semiautomatic || 8 || 250 
+|25
+(5x5)
+|0.9
+|1.5
+|23
+|60
+|30
+|0
+|| Fires a spread of 5 bullets that leave small pools of poison goop.
+|-
+|[[File:Gilded Hydra.png|32px]] || [[Gilded Hydra]] || Heads Up! 
+|| {{Quality|S}} || Semiautomatic || 1+ || 50 
+|60
+(7.5x8)
+|0.40
+|2.0
+|23
+|60
+|30
+|0|| Fires a large burst of piercing, bouncing bullets. Clip size is increased by 1 for each half heart the player is missing, and healing decreases clip size. 
+|-
+|[[File:Blunderbuss.png|32px]] || [[Blunderbuss]] || Shoots Anything 
+|| {{Quality|D}} || Charged || 4 || 100 
+|30
+
+(3x10)
+|0.50
+|1.2
+|26
+|{{Infinity}}
+|25
+|20|| Fires a short-ranged spray of bullets.
+|-
+|[[File:Pulse Cannon.png|32px]] || [[Pulse Cannon]] || Time Of Death… 
+|| {{Quality|C}} || Semiautomatic || 8 || 120 
+|24
+(4x6)
+|0.6
+|1.8
+|23
+|60
+|60
+|0
+|| Fires a shotgun blast spread of 6 bullets.
+|-
+|[[File:Siren.png|32px]] || [[Siren]] || Mershotgun 
+|| {{Quality|C}} || Semiautomatic || 6 || 200 
+|18
+(6x3)
+|0.40
+|1.5
+|23
+|60
+|30
+|0
+|| Fires a shotgun blast of bullets that leave pools of water.  Negates fall damage and goop effects while equipped.
+|-
+|[[File:Zilla Shotgun.png|32px]] || [[Zilla Shotgun]] || Quadruple the fun! 
+|| {{Quality|A}} || Charged || 4 || 240
+|Uncharged:
+
+32 (4x8)
+
+Charged:
+
+42 (6x7)
+|0.50
+|1.5
+|26
+|{{Infinity}}
+|26
+|20|| Can be charged to fire the entire magazine at once, which will cause it to fire piercing, bouncing bullets.
+|-
+|[[File:Ice Breaker.png|32px]] || [[Ice Breaker]] || Never Let Go 
+|| {{Quality|B}} || Semiautomatic || 3 || 200 
+|Ice:
+
+10 (2x5)
+
+Explosive:
+
+35
+|0.40
+|0.9
+|23
+|60
+|30
+|0|| The first two shots fire a shotgun blast of ice bullets, and the final shot fires a single explosive shot.
+|-
+|[[File:The Membrane.png|32px]] || [[The Membrane]] || Green Or Yellow? 
+|| {{Quality|C}} || Semiautomatic || 6 || 120 
+|Before split:
+24 (4x6)
+
+After split:
+
+36 (3x12)
+|0.45
+|1.2
+|22
+|30
+|6
+|8
+|| Fires a shotgun blast of bouncing green bullets that split into more bouncing green bullets. 
+|-
+|[[File:Huntsman.png|32px]] || [[Huntsman]] || Axes Of Evil 
+|| {{Quality|C}} || Semiautomatic || 6 || 150 
+|21
+(3.5x6)
+|0.65
+|1.2
+|23
+|50
+|10
+|10
+|| Fires a shotgun blast of bullets. Reloading destroys nearby bullets. Increases [[curse]] by 1.
+|-
+|[[File:Blooper.png|32px]] || [[Blooper]] || Close Your Bloop 
+|| {{Quality|B}} || Semiautomatic || 5 || 80 
+|42
+
+(7x6)
+|0.65
+|2.0
+|23
+|60
+|30
+|0|| Fires shotgun blasts of blue bullets with high knockback.
+|-
+|[[File:JK-47.png|32px]] || [[JK-47]] || Substitute
+||  || Automatic||  || 
+|
+|
+|
+|
+|
+|
+|
+|| Reloading inflicts fear on nearby enemies.
+|-
+|[[File:Bow.png|32px]] || [[Bow]] || Hold Fire To Charge 
+|| {{Quality|C}} || Charged || 1 || 100 
+|Uncharged: 7.5
+Charged:
+
+30
+|1.00
+|0.12
+|26
+|{{Infinity}}
+|25
+|0
+|| Fully charged shots pierce.
+|-
+|[[File:Charmed Bow.png|32px]] || [[Charmed Bow]] || <3-----<<< 
+|| {{Quality|B}} || Charged || 1 || 150 
+|Uncharged:
+
+7.5
+
+Charged:
+
+14
+|
+|0.0
+|
+|
+|
+||| [[Charm]]<nowiki/>s enemies when fully charged.
+|-
+|[[File:Crossbow.png|32px]] || [[Crossbow]] || The Original 
+|| {{Quality|D}} || Semiautomatic || 1 || 100 
+|22
+|0.50
+|0.75
+|26
+|{{Infinity}}
+|25
+|7|| Fires bolts. Starting gun of [[The Hunter]].
+|-
+|[[File:Sticky Crossbow.png|32px]] || [[Sticky Crossbow]] || Reload, Explode 
+|| {{Quality|C}} || Semiautomatic ||6||100
+|5 (arrow) + 15 (explosion)
+|0.45
+|1.5
+|25
+|{{Infinity}}
+|8
+|0|| Fires bolts that stick to enemies and explode upon reloading.
+|-
+|[[File:Shotbow.png|32px]] || [[Shotbow]] || A Teleporter Accident 
+|| {{Quality|B}} || Semiautomatic ||3||80
+|36
+(6x6)
+|1.00
+|1.5
+|26
+|{{Infinity}}
+|25
+|5|| Fires a shotgun blast of bolts.
+|-
+|[[File:Triple Crossbow.png|32px]] || [[Triple Crossbow]] || 3 > 1 
+|| {{Quality|C}} || Semiautomatic || 3 || 100 
+|Slow:
+7
+
+Triple:
+
+21 (7x3)
+|0.1
+|0.9
+|26
+|{{Infinity}}
+|25
+|5|| Reloading alternates between triple bolts and single bolts that slow enemies.
+|-
+|[[File:Crescent Crossbow.png|32px]] || [[Crescent Crossbow]] || Moon Shot 
+|| {{Quality|A}} || Charged || 12 || 100 
+|Large: 22
+Medium: 8
+
+Small: 3
+|0.20
+|1.5
+|32
+|{{Infinity}}
+|20
+|0|| Fires stars that split into smaller bouncing stars.
+|-
+|[[File:Gunbow.png|32px]] || [[Gunbow]] || Failed Experiment 
+|| {{Quality|A}} || Charged || 1 || 60 
+|35
+|0.001
+|1.0
+|26
+|{{Infinity}}
+|25
+|0|| Fires a fast, piercing projectile that ricochets many times.
+|-
+|[[File:Klobbe.png|32px]] || [[Klobbe]] || Everyone's Favorite 
+|| {{Quality|D}} || Automatic ||32||900
+|1.2
+|0.04
+|2.0
+|14
+|{{Infinity}}
+|1
+|20|| Rapidly fires low-damage bullets.
+|-
+|[[File:Machine Pistol.png|32px]] || [[Machine Pistol]] || Rapid Fire 
+|| {{Quality|D}} || Automatic ||30||600
+|3.2
+|0.07
+|1.2
+|23
+|16
+|6
+|10
+|| 
+|-
+|[[File:Thompson Sub-Machinegun.png|32px]] || [[Thompson Sub-Machinegun]] || Myeah, See! 
+|| {{Quality|C}} || Automatic || 30 || 350 
+|5
+|0.10
+|0.78
+|23
+|{{Infinity}}
+|9
+|10|| 
+|-
+|[[File:AK-47.png|32px]] || [[AK-47]] || Accept No Substitutes 
+|| {{Quality|B}} || Automatic || 30 || 500 
+|5.5
+|0.11
+|0.6
+|23
+|{{Infinity}}
+|9
+|4|| 
+|-
+| [[File:Strafe Gun.png|32px]] || [[Strafe Gun]] || Bleeding Edge Gameplay || {{Quality|S}} || Automatic || 20 || 400
+| Impact: 1 <br>Explosion: 8
+|0.13
+|1.4
+|
+|
+|
+|
+| Fires nails that explode upon releasing the trigger.
+|-
+|[[File:AKEY-47.png|32px]] || [[AKEY-47]] || Unlocked And Loaded! 
+|| {{Quality|S}} || Automatic || 30 || 500 
+|5.5
+|0.11
+|0.6
+|23
+|{{Infinity}}
+|9
+|4|| Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it.
+|-
+|[[File:Stone Dome.png|32px]]
+|[[Stone Dome]]
+|Big Head Mode
+|{{Quality|B}}
+|Automatic
+|750
+|750
+|4.5
+|0.20
+|
+|
+|
+|
+|
+|Sits on the player's head and rapidly fires homing bullets. While held, inflicts [[fear]] on nearby enemies. Increases [[curse]] by 1.
+|-
+| [[File:Crown of Guns.png|32px]] || [[Crown of Guns]] || All Hail || {{Quality|C}} || Automatic || {{Infinity}} || 3000
+|5.5
+|0.04
+|
+|
+|
+|
+|
+| Sits atop the player's head and fires bullets in all directions.
+|-
+|[[File:M16.png|32px]] || [[M16]] || Underslung 
+|| {{Quality|A}} || Burst || 30 (machine gun)<br>3 (grenade launcher) || 500
+|Gun: 5.5
+Grenade: 10 (impact) + 25 (explosion)
+|0.10
+|1.2
+|23
+|{{Infinity}}
+|11
+|7|| Reloading alternates between bursts of 3 bullets and a grenade launcher. 
+|-
+|[[File:Combined Rifle.png|32px]]
+|[[Combined Rifle]]
+|Halve Lives
+|{{Quality|B}}
+|Automatic
+|30 (gun)<br>1 (ball)
+|500
+|5 (gun)<br>100 (ball)
+|0.12
+|1.0
+|
+|
+|
+|
+|Reloading alternates between a rapid-fire rifle and a bouncing, piercing energy ball.
+|-
+|[[File:Zorgun.png|32px]] || [[Zorgun]] || Don't Push The Red Button 
+|| {{Quality|A}} ||  Automatic
+||  30
+||  300
+|5.5
+|0.10
+|0.6
+|23
+|{{Infinity}}
+|9
+|5
+|| Rapidly fires homing bullets. The final bullet in each clip fires a random explosive (grenade, rocket, or drill).
+|-
+||[[File:The Fat Line.png|32px]] ||[[The Fat Line]]
+|Technobabble
+|{{Quality|B}}
+|Automatic
+|100
+|500
+|4
+|
+|3.0
+|
+|
+|
+|
+|Fires purple bullets, which start at the wall the gun is aimed at and travel back towards the gun. Bullets will curve and home in on enemies as they travel.
+|-
+|[[File:Mr. Accretion Jr..png|32px]]
+|[[Mr. Accretion Jr.]]
+|Music of the Spheres
+|{{Quality|B}}
+|Semiautomatic
+|20
+|100
+|
+|0.7
+|1.9
+|
+|
+|
+|
+|Fires planets which start orbiting the player if they hit a wall or obstacle.
+|-
+|[[File:VertebraeK-47.png|32px]] || [[VertebraeK-47]] || Nervous Yet? 
+|| {{Quality|B}} || Automatic ||  30
+||  250
+|4 (bullet)
+2 (chain)
+|0.10
+|1.5
+|18
+|{{Infinity}}
+|6
+|5
+|| Bullets close to each other will form links between each other, which hurts enemies on touch.
+|-
+|[[File:Balloon Gun.png|40px]]
+|[[Balloon Gun]]
+|Hot Air
+|{{Quality|C}}
+|Automatic
+|10
+|250
+|12
+|0.25
+|1.6
+|
+|
+|
+|
+| Fires small homing tornadoes. While held, grants flight but loses all ammo on taking damage.
+|-
+|[[File:MAC10.png|32px]] || [[MAC10]] || $#!^@ Never End 
+|| {{Quality|C}} || Burst || 30 || 600 
+|3.5
+|0.07
+|1.0
+|23
+|{{Infinity}}
+|3
+|10|| Fires a burst of four bullets.
+|-
+| [[File:Triple Gun.png|32px]] || [[Triple Gun]] || Bullet the Stampede ||  || Varies ||  || 
+|
+|
+|
+|
+|
+|
+|
+| Changes form based on how much ammo it has left.
+|-
+|[[File:Heck Blaster.png|32px]] || [[Heck Blaster]] || Whoa, Nelly 
+|| {{Quality|B}} || Automatic || 999 || 999 
+|2.5
+|0.05
+|0.3
+|40
+|14
+|3
+|8|| Rapidly fires invisible bullets. [[Curse|Jammed]] enemies hit will revert to normal.
+|-
+|[[File:Patriot.png|32px]] || [[Patriot]] || Gun Eater 
+|| {{Quality|S}} || Automatic || 100 || 500 
+|7
+|0.30
+|1.0
+|30
+|{{Infinity}}
+|15
+|1|| Fires piercing bullets. 
+Fire rate increases rapidly as the trigger is held. 
+|-
+|[[File:AC-15.png|32px]]
+|[[AC-15]]
+|Metalled Gear
+|{{Quality|B}}
+|Automatic
+|40
+|300
+|Unarmored: 3.8<br>Armored: 15
+|Unarmored:
+0.125
+
+Armored: 0.5
+|1.8
+|
+|
+|
+|
+|Becomes more powerful if the player has armor.
+|-
+|[[File:Vulcan Cannon.png|32px]] || [[Vulcan Cannon]] || Boundless Slaughter 
+|| {{Quality|S}} || Automatic || 900 || 900
+|5
+|0.05
+|0.6
+|35
+|{{Infinity}}
+|15
+|12|| 
+|-
+|[[File:Plague Pistol.png|32px]] || [[Plague Pistol]] || Chemical Warfare 
+|| {{Quality|D}} || Semiautomatic || 12 || 200 
+|4
+|0.15
+|1.2
+|20
+|25
+|13
+|5|| Bullets create [[poison]] puddles on impact.
+|-
+|[[File:Gungine.png|32px]] || [[Gungine]] || 12 Cylinder 
+|| {{Quality|S}} || Automatic || 100 || 800 
+|5
+|0.05
+|1.14
+|35
+|{{Infinity}}
+|15
+|6|| Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo.
+|-
+|[[File:The Predator.png|32px]]||[[The Predator]]||High-tech $#!*
+|{{Quality|B}}|| Semiautomatic|| 8 || 150
+|25
+|
+|
+|
+|
+|
+|
+|Locks onto enemies and fires high speed homing lasers.  Invisibility while reloading an empty magazine.
+|-
+|[[File:Dragunfire.png|32px]] || [[Dragunfire]] || Roar 
+|| {{Quality|A}} || Automatic || 30 || 600 
+|5
+|0.05
+|1.6
+|25
+|{{Infinity}}
+|27
+|7|| Rapidly fires burning bullets that have a chance to inflict [[Burn]].
+|-
+|[[File:Sniper Rifle.png|32px]] || [[Sniper Rifle]] || Scope Creep 
+|| {{Quality|C}} || Semiautomatic || 10 || 80 
+|26
+|1.00
+|1.5
+|200
+|{{Infinity}}
+|15
+|1|| Fires bullets that can pierce through one enemy.
+|-
+|[[File:A.W.P..png|32px]] || [[A.W.P.]] || Noob Cannon 
+|| {{Quality|A}} || Semiautomatic ||  8
+||  50
+|40
+|1.20
+|2.1
+|100
+|{{Infinity}}
+|25
+|5
+|| Fires bullets that can pierce through one enemy. 
+|-
+|[[File:M1.png|32px]] || [[M1]] || Bolt Action 
+|| {{Quality|C}} || Semiautomatic || 6 || 100 
+|20
+|0.80
+|1.3
+|200
+|60
+|25
+|2
+|| Fires high-speed piercing bullets.
+|-
+| [[File:Winchester Rifle.png|32px]] || [[Winchester Rifle]] || Guns And Deviltry. 
+|| {{Quality|D}} || Semiautomatic || 12 || 130 
+|15
+|0.72
+|1.2
+|32
+|{{Infinity}}
+|9
+|5|| 
+|-
+|[[File:Corsair.png|32px]] || [[Corsair]] || Plot A Course 
+|| {{Quality|C}} || Charged || 1 || 200 
+|10
+|0
+|0.5
+|26
+|{{Infinity}}
+|25
+|5|| Fires slow, bouncing bullets that accelerate and curve towards enemies.
+|-
+|[[File:Railgun.png|32px]] || [[Railgun]] || Calibrating 
+|| {{Quality|S}} || Charged || 1 || 40 
+|50
+|
+|0.6
+|
+|
+|
+||| Fires a fast-moving piercing bullet that bounces many times. 
+|-
+|[[File:Prototype Railgun.png|32px]] || [[Prototype Railgun]] || DANGER: HIGH VOLTAGE 
+|| {{Quality|A}} ||Charged||1||40
+|150
+|
+|0.6
+|
+|
+|
+||| Fires a fast-moving piercing bullet.
+|-
+|[[File:Void Marshal.png|32px]] || [[Void Marshal]] || Acquired Under The Table 
+|| {{Quality|B}} || Semiautomatic ||  15
+||  250
+|9
+|0.10
+|1.2
+|35
+|35
+|10
+|7
+|| 
+|-
+|[[File:Deck4rd.png|32px]] || [[Deck4rd]] || Unicorn Of Handguns 
+|| {{Quality|A}} ||  Semiautomatic ||  2
+||  40
+|5 (impact) + 35 (explosion)
+|0.20
+|1.5
+|20
+|{{Infinity}}
+|22
+|10
+|| Fires a single powerful bullet that will explode upon impact.
+|-
+|[[File:The Judge.png|32px]] || [[The Judge]] || Hot Shot 
+|| {{Quality|B}} || Semiautomatic ||  9
+||  400
+|7.5
+|0.15
+|1.0
+|30
+|{{Infinity}}
+|9
+|7
+|| The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)
+|-
+| [[File:Mourning Star.png|32px]] || [[Mourning Star]] || Satellite Rain || {{Quality|S}} || Beam || 800
+|800
+|~110/s
+|0.3
+|
+|
+|
+|
+|
+| Calls down a controllable orbital laser.
+|-
+|[[File:Alien Sidearm.png|32px]] || [[Alien Sidearm]] || Shield Breaker 
+|| {{Quality|D}} || Charged || 10 || 350 
+|Uncharged: 5
+Charged: 25
+|0.15
+|1.2
+|23
+|15
+|10
+|5|| Charged shots are larger and deal more damage.
+|-
+|[[File:RUBE-ADYNE Prototype.png|32px]] || [[RUBE-ADYNE Prototype]] || It Never Quits 
+|| {{Quality|B}} || Semiautomatic || 6 || 200 
+|7
+|0.12
+|0.6
+|40
+|60
+|10
+|5|| Fires lasers that bounce four times.
+|-
+|[[File:RUBE-ADYNE MK.II.png|32px]] || [[RUBE-ADYNE MK.II]] || Polished Product 
+|| {{Quality|A}} || Semiautomatic || 15 || 300 
+|8
+|0.10
+|0.48
+|40
+|35
+|10
+|7|| Fires bouncing lasers with limited range. 
+|-
+|[[File:Rubenstein's Monster.png|32px]]
+|[[Rubenstein's Monster]]
+|Unit 00
+|{{Quality|N}}
+|Automatic
+|100
+|900
+|7
+|0.07
+|
+|
+|
+|
+|
+| Created when both [[RUBE-ADYNE Prototype]] and [[RUBE-ADYNE MK.II]] are picked up. Rapidly fires bouncing lasers.
+|-
+| [[File:Chamber Gun.png|32px]] || [[Chamber Gun]] ||Product of Environment
+|{{Quality|C}}||  ||  || 
+|
+|
+|
+|
+|
+|
+|
+| Transforms based on the current chamber.
+|-
+| [[File:Gunderfury.png|32px]]  ||[[Gunderfury]]||Gun of Guncraft
+|  || Semiautomatic|| 8/30/40/50 || 200/300/350/400/500
+|
+|
+|
+|
+|
+|
+|
+|Gains persist experience and levels up with kills, changing its appearance and stats.
+|-
+|[[File:Mine Cutter.png|32px]] || [[Mine Cutter]] || Safety First 
+|| {{Quality|B}} || Semiautomatic || 12 || 250 
+|Triple: 10
+Single: 8
+|0.10
+|1.2
+|23
+|60
+|30
+|7|| Reloading alternates between firing three small, piercing, parallel lasers and single large lasers.
+|-
+|[[File:Void Core Assault Rifle.png|32px]] || [[Void Core Assault Rifle]] || Rapid Fire 
+|| {{Quality|B}} || Burst || 30 || 300 
+|6.5
+|0.35
+|1.2
+|23
+|20
+|15
+|3
+|| Fires bursts of three lasers.
+|-
+|[[File:Flash Ray.png|32px]] || [[Flash Ray]] || Ah Ahhh! 
+|| {{Quality|D}} || Semiautomatic || 8 || 350 
+|7.5
+|0.20
+|1.2
+|600
+|{{Infinity}}
+|4
+|10|| Shoots piercing lasers with a chance to [[stun]]. 
+|-
+|[[File:Wind Up Gun.png|32px]] || [[Wind Up Gun]] || Charge It 
+|| {{Quality|D}} || Automatic || 20 || 600 
+|5
+|0.13
+|1.5
+|30
+|35
+|10
+|8
+|| In each magazine, the first 10 bullets pierce. The last 10 deal half damage.
+|-
+|[[File:H4mmer.png|32px]] || [[H4mmer]] || Many Bullets 
+|| {{Quality|B}} || Automatic || 30 || 450 
+|Bullets: 3.8
+Hammer: 20
+|0.05
+|0.6
+|23
+|{{Infinity}}
+|6
+|7|| Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies.
+|-
+|[[File:Snakemaker.png|32px]] || [[Snakemaker]] || SSSSSSSSSSS 
+|| {{Quality|A}} ||Semiautomatic||10||200
+|12
+|0.25
+|1.2
+|50
+|{{Infinity}}
+|10
+|0|| Has a chance to transmogrify enemies into snakes.
+|-
+|[[File:Turbo-Gun.png|32px]]
+|[[Turbo-Gun]]
+|Repetitive Strain
+|{{Quality|C}}
+|Automatic
+|6
+|180
+|8.4 (base)
+|0.10
+|1.0
+|
+|
+|
+|
+|Damage increases for the next magazine depending on the number of reload attempts during its reload.
+|-
+|[[File:Hegemony Carbine.png|32px]] || [[Hegemony Carbine]] || All The Same 
+|| {{Quality|C}} || Automatic ||  25
+||  600
+|3.5
+|0.10
+|1.4
+|30
+|50
+|4
+|5
+|| Shoots rapid fire white bolts of energy.
+|-
+|[[File:Screecher.png|32px]] || [[Screecher]] || Cover Your Ears! 
+|| {{Quality|C}} || Automatic || 1000 || 1000 
+|1.5
+|0.05
+|0.6
+|12
+|12
+|0
+|0|| Rapidly fires piercing sound waves that have a small chance to stun.
+|-
+|[[File:Laser Lotus.png|32px]] || [[Laser Lotus]] || Level 5 
+|| {{Quality|A}} ||Semiautomatic||10||150
+|16
+|0.20
+|1.38
+|45
+|{{Infinity}}
+|26
+|5|| Fires piercing lasers.
+|-
+|[[File:Hegemony Rifle.png|32px]] || [[Hegemony Rifle]] || So Precise 
+|| {{Quality|B}} || Semiautomatic ||15||250
+|10
+|0.25
+|1.2
+|35
+|15
+|15
+|13||Rapidly fires inaccurate white lasers.
+|-
+|[[File:Fightsabre.png|32px]] || [[Fightsabre]] || Heresy 
+|| {{Quality|S}} || Automatic || 25 || 500 
+|6
+|0.15
+|1.5
+|23
+|50
+|10
+|8|| Reloading swings the gun around, reflecting nearby bullets. Increases [[curse]] by 2.
+|-
+|[[File:Helix.png|32px]] || [[Helix]] || Splice 'n' Dice 
+|| {{Quality|C}} || Semiautomatic || 12 || 250 
+|15
+(7.5x2)
+|0.25
+|2.0
+|35
+|35
+|10
+|7|| Fires two bullets in a helix pattern.
+|-
+|[[File:Laser Rifle.png|32px]] || [[Laser Rifle]] || Blast Off! 
+|| {{Quality|C}} || Burst || 24 || 500 
+|5
+|0.50
+|1.2
+|200
+|60
+|16
+|5
+|| Fires a burst of three lasers.
+|-
+|[[File:Crestfaller.png|32px]] || [[Crestfaller]] || Cold Reality 
+|| {{Quality|C}} || Semiautomatic || 8 || 250 
+|10
+|0.45
+|1.2
+|40
+|{{Infinity}}
+|11
+|6|| Fires bullets that [[slow]] and have a chance to [[freeze]].
+|-
+| [[File:Rad Gun.png|32px]] || [[Rad Gun]] || Totally Rad ||  {{Quality|B}}
+|| Semiautomatic || 12 || 250
+|Varies
+|0.15
+|Varies
+|
+|
+|
+|
+| Increases [[coolness]] by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage.
+|-
+|[[File:Thunderclap.png|32px]] || [[Thunderclap]] || Lightning In A Bullet 
+|| {{Quality|A}} || Semiautomatic || 15 || 300 
+|8
+|0.15
+|1.7
+|20
+|{{Infinity}}
+|10
+|5|| Fires balls of lightning.
+|-
+|[[File:Charge Shot.png|32px]] || [[Charge Shot]] || Hold To Fire 
+|| {{Quality|B}} || Charged || 5 || 75
+|30
+|0.01
+|1.0
+|26
+|{{Infinity}}
+|25
+|5|| Fires a large laser that pierces enemies and bounces off of walls two times. Laser deals higher damage after bouncing.
+|-
+|[[File:Dark Marker.png|32px]] || [[Dark Marker]] || Big Bang 
+|| {{Quality|S}} || Semiautomatic || 12 || 200 
+|Bullets: 8
+Explosion: 80
+|0.20
+|2.0
+|32
+|{{Infinity}}
+|20
+|0|| Charge shot consumes the entire clip to create a room-wide explosion and blank effect.
+|-
+|[[File:Particulator.png|32px]] || [[Particulator]] || Strange Matter 
+|| {{Quality|S}} ||Semiautomatic||1||60
+|Large: 30
+Small: 7
+|0.70
+|2.4
+|10
+|10
+|8
+|0|| Fires a large bullet, which will split into 10 bullets which seek out enemies.
+|-
+|[[File:The Emperor.png|32px]] || [[The Emperor]] || Electric Terror 
+|| {{Quality|A}} || Burst ||30||300
+|7
+|0.30
+|1.2
+|20
+|50
+|10
+|7|| Fires a burst of four bullets connected by electricity.
+|-
+|[[File:RPG.png|32px]] || [[RPG]] || Leveled Up 
+|| {{Quality|B}} || Semiautomatic || 1 || 40 
+|20 (impact) + 35 (explosion)
+|1.00
+|3.0
+|40
+|90
+|10
+|5|| Fires grenades.
+|-
+|[[File:Grenade Launcher.png|32px]] || [[Grenade Launcher]] || Fwomp! 
+|| {{Quality|B}} || Semiautomatic || 1 || 25 
+|10 (impact) + 25 (explosion)
+|1.20
+|0.78
+|20
+|20
+|20
+|4|| Shoots a grenade that bounces off of surfaces and explodes on impact with enemies.
+|-
+|[[File:Stinger.png|32px]] || [[Stinger]] || Drone Warfare 
+|| {{Quality|B}} || Semiautomatic || 1 || 50 
+|10 (impact) + 15 (explosion)
+|1.00
+|2.0
+|20
+|60
+|10
+|1|| Fires homing rockets that explode into bees.
+|-
+|[[File:The Exotic.png|32px]]
+|[[The Exotic]]
+|Pack of Wolves
+|{{Quality|A}}
+|Semiautomatic
+|1
+|50
+|25 (impact)
++ 15 (explosion)
+
++ 35
+
+(7 * 5 mini rockets)
+|
+|1.5
+|
+|
+|
+|
+|Fires rockets which burst into more homing rockets. While held, grants a ghost companion that follows the player and reveals the contents of nearby chests.
+|-
+|[[File:Com4nd0.png|32px]] || [[Com4nd0]] || You're Fired 
+|| {{Quality|B}} || Semiautomatic || 4 || 40 
+|20 (impact) + 25 (explosion)
+|0.60
+|1.5
+|14
+|90
+|10
+|5|| Fires homing rockets.
+|-
+|[[File:RC Rocket.png|32px]] || [[RC Rocket]] || Avoid User Error 
+|| {{Quality|A}} || Semiautomatic || 1 || 50 
+|100 (impact) + 30 (explosion)
+|0.60
+|1.5
+|10
+|200
+|10
+|1|| Fires rockets guided by the player's cursor.
+|-
+|[[File:Yari Launcher.png|32px]] || [[Yari Launcher]] || Hell. Yes. 
+|| {{Quality|S}} ||  Automatic
+||20||  140
+|10 (impact) + 15 (explosion)
+|0.04
+|1.5
+|10
+|90
+|30
+|45
+|| Rapidly fires homing rockets. Bypasses the boss DPS cap.
+|-
+|[[File:Lil' Bomber.png|32px]] || [[Lil' Bomber]] || ReFuse To Lose! 
+|| {{Quality|D}} || Charged || 3 || 60 
+|15 (impact) + 25 (explosion)
+|1.00
+|2.0
+|23
+|{{Infinity}}
+|35
+|6|| Fires a bomb that bounces off of walls and explodes on enemy contact.
+|-
+|[[File:Grasschopper.png|32px]] || [[Grasschopper]] || Noisy 
+|| {{Quality|A}} || Semiautomatic ||1||30
+|20 (impact) + 20 (explosion)
+|0.07
+|2.0
+|36
+|18
+|22
+|5|| Fires a single powerful blast that has very strong recoil.
+|-
+| [[File:Void Core Cannon.png|32px]] || [[Void Core Cannon]] || Critical Strike ||{{Quality|B}}
+|  || 4 || 120
+|
+|
+|
+|
+|
+|
+|
+| Fires bursts of four large energy balls, which home in on enemies and explode upon impact.
+|-
+|[[File:Bundle of Wands.png|32px]] || [[Bundle of Wands]] || Dark Arts 
+|| {{Quality|C}} || Semiautomatic ||  6
+||  150
+|21
+(7x3)
+|0.30
+|1.5
+|23
+|60
+|30
+|5|| Has a chance to transmogrify.
+|-
+|[[File:Staff of Firepower.png|32px]] || [[Staff of Firepower]] || Missing Link 
+|| {{Quality|A}} || Semiautomatic || 6 (gun)<br>12 (staff) || 200 
+|Gun: 7
+Staff: 12
+|0.15
+|1.0
+|25
+|{{Infinity}}
+|12
+|7|| Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire. 
+|-
+|[[File:Witch Pistol.png|32px]] || [[Witch Pistol]] || Spells Your Doom 
+|| {{Quality|C}} || Semiautomatic || 6 || 350 
+|6
+|0.15
+|1.2
+|27
+|{{Infinity}}
+|20
+|2|| Fires bullets that have a chance to transmogrify enemies.
+|-
+|[[File:Hexagun.png|32px]] || [[Hexagun]] || Light Fantastic 
+|| {{Quality|B}} || Semiautomatic || 1 || 75 
+|35
+|0.001
+|1.02
+|200
+|{{Infinity}}
+|25
+|0|| Fires piercing bullets that have a chance to transmogrify enemies.
+|-
+|[[File:Phoenix.png|32px]] || [[Phoenix]] || Reborn In Flame 
+|| {{Quality|D}} || Semiautomatic || 12 || 350 
+|4
+|0.15
+|1.2
+|25
+|25
+|13
+|3|| Shooting creates a small cone of fire in front of the player that [[burn]]s enemies.
+|-
+|[[File:Magic Lamp.png|32px]] || [[Magic Lamp]] || One Wish, Three Times 
+|| {{Quality|B}} || Semiautomatic ||3||  100
+|8 (shots)
+115 (genie)
+|0.50
+|1.2
+|12
+|{{Infinity}}
+|10
+|5|| Hitting an enemy three times causes a genie to punch them.  
+|-
+| [[File:Teapot.png|32px]] || [[Teapot]] || Monocular Monster ||{{Quality|C}}|| Semiautomatic|| 12 || 250
+|
+|
+|
+|
+|
+|
+|
+| While reloading, ignites nearby enemies.
+|-
+|[[File:Gunslinger's Ashes.png|32px]] || [[Gunslinger's Ashes]] ||  Spirit, Willing 
+|| {{Quality|C}} || Semiautomatic || 6 || 80 
+|Contact: 12 Shots: 15 (5x3)
+|0.60
+|1.2
+|1
+|6
+|25
+|0|| Fires slow homing ghosts that shoot and deal contact damage.
+|-
+|[[File:Luxin Cannon.png|32px]] || [[Luxin Cannon]] || Omnichrome 
+|| {{Quality|C}} || Automatic || 30 || 600 
+|4.5
+|0.07
+|1.5
+|60
+|{{Infinity}}
+|10
+|6|| Fires laser shots at enemies. The last bullet of magazine fires a crystal, which splits into 5 small crystals on impact.
+|-
+|[[File:Gunther.png|32px]] || [[Gunther]] || Jealous Weapon 
+|| {{Quality|S}} || Semiautomatic || 15 || {{Infinity}} 
+|First Stage: 6
+Second Stage: 9
+
+Third Stage: 12
+|0.10
+|1.2
+|16
+|50
+|20
+|10|| Cannot be used to reveal hidden walls. Grows stronger with each room cleared.
+|-
+|[[File:Unicorn Horn.png|32px]] || [[Unicorn Horn]] || Fires Friendship 
+|| {{Quality|A}} || Beam ||  500
+||  500
+|30/s
+|0.10
+|N/A
+|30
+|30
+|45
+|0
+|| Fires a rainbow beam that homes in on enemies. Increases [[curse]] by 1.
+|-
+|[[File:Cobalt Hammer.png|32px]] || [[Cobalt Hammer]] || Break Stuff 
+|| {{Quality|A}} || Charged || 6 || 60 
+|Uncharged: 26
+Charged: 36
+|0.30
+|1.2
+|100
+|{{Infinity}}
+|80
+|0|| Fires blue lasers. Charging the weapon makes it fire lasers in four directions.
+|-
+|[[File:Frost Giant.png|32px]] || [[Frost Giant]] || Icy Grasp 
+|| {{Quality|B}} || Semiautomatic || 12 || 130 
+|12
+|0.001
+|1.6
+|20
+|30
+|10
+|12|| Fires big bullets that have a chance to [[freeze]].
+|-
+|[[File:Bullet Bore.png|32px]] || [[Bullet Bore]] || Mind Muncher 
+|| {{Quality|A}} || Semiautomatic || 1 || 75 
+|10 (impact) + 25 (explosion)
+|1.00
+|1.5
+|20
+|{{Infinity}}
+|8
+|5|| Fires drills that home in on enemies, stun them, and explode after a short delay. 
+|-
+|[[File:Cat Claw.png|32px]] || [[Cat Claw]] || Kneadle Your Foes! 
+|| {{Quality|A}} ||Automatic||33||400
+|2 (impact) + 10 (explosion)
+|0.15
+|1.2
+|23
+|{{Infinity}}
+|2
+|5||Fires darts that home in on enemies and explode after a short delay. The darts deal minimal damage on contact.
+|-
+|[[File:Megahand.png|32px]] || [[Megahand]] || -P- 
+|| {{Quality|B}} || Charged || 18 || 200 
+|Uncharged: 6
+Charged: 45
+|0.07
+|0.54
+|20
+|{{Infinity}}
+|8
+|0|| Has 2 levels of damage depending on how long the gun has been charged.
+|-
+|[[File:Demon Head.png|32px]] || [[Demon Head]] || Wanged 
+|| {{Quality|B}} || Beam || 500 || 500 
+|31/s
+|0.10
+|N/A
+|100
+|40
+|30
+|5|| Fires a continuous beam that has a chance to inflict [[Burn]] and slightly homes in on enemies.
+|-
+|[[File:Heroine.png|32px]] || [[Heroine]] || Charge Beam Active 
+|| {{Quality|B}} || Charged || 6 || 200 
+|Level 1: 5
+Level 2: 10
+
+Level 3: 70
+|0.07
+|0.54
+|25
+|{{Infinity}}
+|10
+|0|| Has 3 levels of damage depending on how long the gun has been charged.
+|-
+||[[File:Mutation.png|32px]] || [[Mutation]] || Didn't Need Two Anyway 
+|| {{Quality|B}} || Beam ||  500
+||  500
+|45/s
+|0.10
+|N/A
+|40
+|20
+|50
+|5
+|| Fires a continuous beam and heavily pushes back the player. 
+|-
+|[[File:Flame Hand.png|32px]] || [[Flame Hand]] || 2D6 + Int Mod 
+|| {{Quality|B}} || Semiautomatic ||  100
+||  200
+|Varying
+|0.50
+|0.0
+|23
+|{{Infinity}}
+|35
+|0
+|| Fires fireballs that pierce enemies and have a chance to set enemies on fire.
+|-
+|[[File:Sunlight Javelin.png|32px]] || [[Sunlight Javelin]] || Brilliant Aura
+||{{Quality|B}}
+| Semiautomatic ||  150
+||  250
+|
+|
+|
+|
+|
+|
+|
+|| Shoots fiery javelins that make enemies take damage over time.
+|-
+|[[File:Machine Fist.png|32px]] || [[Machine Fist]] || Avalanche Of Bullets 
+|| {{Quality|A}} ||  Automatic
+||  50 (gun)
+1 (rocket)
+||  500
+|Bullet: 4
+Rocket: 20 (impact) + 30 (explosion)
+|0.07
+|1.0
+|27
+|{{Infinity}}
+|15
+|6
+|| Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing.
+|-
+| [[File:Robot's Left Hand.png|32px]] || [[Robot's Left Hand]] || See You Later || {{Quality|A}} || Automatic || 60 || 600
+| 5
+|0.10
+|1.6
+|
+|
+|
+|
+| Rapidly fires blue lasers.
+|-
+|[[File:Snowballer.png|32px]] || [[Snowballer]] || May Contain Rocks 
+|| {{Quality|D}} || Automatic ||  20
+||  400
+|3.5
+|0.15
+|1.2
+|28
+|35
+|10
+|10
+|| Fires snowballs that have a chance to freeze enemies.
+|-
+|[[File:Super Meat Gun.png|32px]] || [[Super Meat Gun]] || Very Fast 
+|| {{Quality|A}} || Semiautomatic || 12 || 300 
+|6
+|0.10
+|0.5
+|25
+|{{Infinity}}
+|10
+|5|| Fires piercing, bouncing saw blades. Slightly increases movement speed.
+|-
+|[[File:Anvillain.png|32px]] || [[Anvillain]] || Practical And Safe 
+|| {{Quality|C}} || Charged || 3 || 60 
+|35
+|0.10
+|0.5
+|20
+|{{Infinity}}
+|8
+|5
+|| Fires piercing anvils with high knockback and a chance to [[stun]].
+|-
+|[[File:Fossilized Gun.png]] || [[Fossilized Gun]] || Proof That Guns Once Existed 
+|| {{Quality|D}} || Beam || 500 || 500 
+|15/s
+|0.10
+|N/A
+|15
+|20
+|40
+|0
+|| Fires a stream of oil. Reloading spits [[Burn|fire]], which can ignite the oil.
+|-
+|[[File:Gamma Ray.png|32px]] || [[Gamma Ray]] || Mean Green 
+|| {{Quality|C}} || Beam || 800 || 800 
+|15/s
+|0.10
+|N/A
+|{{Infinity}}
+|50
+|10
+|0
+|| Fires a green laser that slightly curves towards enemies and can [[poison]].
+|-
+|[[File:Freeze Ray.png|32px]] || [[Freeze Ray]] || Ice To Meet You 
+|| {{Quality|A}} || Beam ||500||500
+|20/s
+|0.10
+|N/A
+|60
+|30
+|10
+|0|| Fires a blue laser that has a chance to freeze enemies. 
+|-
+|[[File:Science Cannon.png|32px]] || [[Science Cannon]] || Charged Particles 
+|| {{Quality|B}} || Beam || 500 || 500 
+|26/s
+|0.10
+|N/A
+|90
+|500
+|35
+|0|| Fires a large laser after a short charge-up, which inflicts random status effects on enemies.
+|-
+|[[File:Disintegrator.png|32px]] || [[Disintegrator]] || Return To Dust 
+|| {{Quality|S}} || Beam || 500 || 500 
+|70/s
+|0.10
+|N/A
+|120
+|50
+|0
+|0|| Fires a large laser after a long charge-up.
+|-
+|[[File:Proton Backpack.png|32px]] || [[Proton Backpack]] || Crossing Streams 
+|| {{Quality|B}} || Beam ||  500
+||  500
+|50/s
+|0.10
+|N/A
+|14
+|90
+|30
+|0
+|| Fires a homing laser.
+|-
+|[[File:Mega Douser.png|32px]] || [[Mega Douser]] || Contents Under Pressure 
+|| {{Quality|D}} || Beam || 900 || 900 
+|15/s
+|0.10
+|N/A
+|20
+|20
+|40
+|0|| Fires a stream of water.
+|-
+|[[File:Plunger.png|32px]] || [[Plunger]] || Take Your Best Shot! 
+|| {{Quality|C}} || Beam || 500 || 500 
+|5/s
+|0.10
+|N/A
+|20
+|20
+|40
+|0|| Fires a stream of poison. Has a chance to [[poison]] enemies and leaves poison puddles on impact.
+|-
+|[[File:Raiden Coil.png|32px]] || [[Raiden Coil]] || Shoot Em' Up 
+|| {{Quality|A}} || Beam || 500 || 500 
+|15/s
+|0.10
+|N/A
+|{{Infinity}}
+|30
+|10
+|5|| Fires a laser that homes in on all on-screen enemies. 
+|-
+|[[File:Moonscraper.png|32px]] || [[Moonscraper]] || Beeeeoooowwww! 
+|| {{Quality|C}} || Beam || 700 || 700 
+|26/s
+|0.10
+|N/A
+|{{Infinity}}
+|50
+|20
+|5|| Fires a beam that reflects off of solid objects once.
+|-
+|[[File:Barrel.png|32px]] || [[Barrel]] || Nothin' Easier 
+|| {{Quality|C}} || Semiautomatic || 9 || 300 
+|8
+|0.20
+|0.78
+|20
+|{{Infinity}}
+|13
+|7
+|| Fires a fish that has a chance to [[stun]] and leaves a pool of water on impact.
+|-
+|[[File:Trick Gun.png|32px]] || [[Trick Gun]] || Reload To Transform 
+|| {{Quality|C}} || Semiautomatic ||  6
+||200
+|Pistol: 7
+
+Shotgun: 16 (2x8)
+|
+|1.2
+|
+|
+|
+||| Reloading transforms the gun between a pistol and a shotgun.
+|-
+|[[File:Mailbox.png|32px]] || [[Mailbox]] || Special Delivery 
+|| {{Quality|D}} || Semiautomatic ||  10
+||  350
+|5
+|0.20
+|1.2
+|22
+|{{Infinity}}
+|10
+|10|| Fires mail at enemies. The last bullet of each magazine is a package, which can explode, leave confetti, [[burn]], or [[poison]].
+|-
+|[[File:Nail Gun.png|32px]] || [[Nail Gun]] || Pest Control 
+|| {{Quality|D}} || Semiautomatic ||500||500
+|3
+|0.12
+|0.0
+|26
+|12
+|8
+|10|| Fires a rapid stream of low damage nails. Fires faster if fire button is tapped rather than held.
+|-
+|[[File:Light Gun.png|32px]] || [[Light Gun]] || Third-Party 
+|| {{Quality|B}} || Semiautomatic ||  6
+||  150
+|7
+|0.20
+|1.0
+|400
+|60
+|30
+|5
+|| Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them.
+|-
+| [[File:Dueling Laser.png|32px]] || [[Dueling Laser]] || More interesting this way! ||{{Quality|B}}|| Semiautomatic || 1 || {{Infinity}} 
+| 100
+|
+|
+|
+|
+|
+|
+| Fires a large, piercing, high-damage laser. Needs to recharge after each shot.
+|-
+|[[File:Wood Beam.png|32px]]
+|[[Wood Beam]]
+|Speak Softly
+|{{Quality|B}}
+|Beam
+|100
+|900
+|Based on swing speed
+(Max: 26)
+|1.0
+|
+|
+|
+|
+|
+|Melee weapon that extends itself to hit enemies. Increases [[curse]] by 1.
+|-
+|[[File:Mahoguny.png|32px]] || [[Mahoguny]] || 100% Organic 
+|| {{Quality|C}} || Semiautomatic || 10 || 350 
+|Wood: 5 (impact) + 10 (explosion)
+Leaves: 4
+|0.40
+|1.2
+|15
+|30
+|20
+|0|| Fires bouncing explosive wood bullets and several leaves.
+|-
+|[[File:The Scrambler.png|32px]] || [[The Scrambler]] || Bullet Or The Gun? 
+|| {{Quality|C}} || Semiautomatic || 1 || 120 
+|6 (egg) + 9x5 (seekers)
+|0.10
+|1.2
+|20
+|32
+|0
+|6|| Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle.
+|-
+|[[File:Trashcannon.png|32px]] || [[Trashcannon]] || Take It Out! 
+|| {{Quality|C}} || Semiautomatic ||1||50
+|20
+|0.20
+|1.2
+|20
+|{{Infinity}}
+|20
+|5|| Fires a trash bag that explodes into poison projectiles that leave trails of poison goop. 
+|-
+|[[File:Glacier.png|32px]] || [[Glacier]] || Refill Your Trays 
+|| {{Quality|A}} || Automatic || 12 || 120 
+|8 (impact) + 6 (explosion)
+|0.50
+|1.5
+|18
+|35
+|8
+|5|| Fires bouncing ice cubes that explode and [[freeze]] enemies.
+|-
+|[[File:Origuni.png|32px]] || [[Origuni]] || Thousand Cuts 
+|| {{Quality|C}} || Semiautomatic || 8 || 300 
+|7.5
+|0.20
+|1.2
+|
+|
+|
+||| Fires paper planes that follow the player's crosshair. 
+|-
+|[[File:The Kiln.png|32px]] || [[The Kiln]] || Fires Pots 
+|| {{Quality|C}} || Semiautomatic || 8 || 200 
+|Pots: 8
+Crystals: 4
+|0.40
+|1.2
+|20
+|45
+|6
+|0|| Fires pots that break into 3 bouncing crystals upon hitting something.
+|-
+|[[File:Skull Spitter.png|32px]] || [[Skull Spitter]] || Hard Headed 
+|| {{Quality|C}} || Semiautomatic ||  10
+||  150
+|10
+|0.30
+|1.0
+|15
+|{{Infinity}}
+|10
+|0
+|| Fires homing skulls.
+|-
+|[[File:Buzzkill.png|32px]] || [[Buzzkill]] || Sawed On! 
+|| {{Quality|C}} || Semiautomatic || 12 || 350 
+|7
+|0.20
+|1.2
+|25
+|{{Infinity}}
+|10
+|5|| Fires piercing, bouncing sawblades.
+|-
+|[[File:Tear Jerker.png|32px]] || [[Tear Jerker]] || Q_Q 
+|| {{Quality|C}} || Semiautomatic || 20 || 350 
+|7
+|0.22
+|1.2
+|15
+|15
+|10
+|0|| Fires tears that leave behind puddles of water.
+|-
+| [[File:Starpew.png|32px]] || [[Starpew]] || Reap And Sow ||  {{Quality|A}}
+|| Charged || 1 || 100
+|5
+|
+|
+|
+|
+|
+|
+| Fires water droplets. Can be charged to increase the number of droplets fired.
+|-
+|[[File:Eye of the Beholster.png|32px]] || [[Eye of the Beholster]] || What A Beauty! 
+|| {{Quality|B}} || Semiautomatic ||  12
+|| 300
+|6
+|0.15
+|1.2
+|200
+|{{Infinity}}
+|4
+|4
+|| The last shot of each clip spawns a friendly [[Beadie]].
+|-
+|[[File:Molotov Launcher.png|32px]] || [[Molotov Launcher]] || Exactly What You Think 
+|| {{Quality|C}} || Semiautomatic || 1 || 80 
+|6
+|1.50
+|2.5
+|18
+|35
+|13
+|5|| Fires molotovs that create [[burn|fire]] puddles on impact.
+|-
+|[[File:Glass Cannon.png|32px]]
+|[[Glass Cannon]]
+|Fragile, Fatal
+|{{Quality|C}}
+|Charged
+|1
+|25
+|
+|
+|
+|
+|{{Infinity}}
+|
+|
+|Fires a powerful beam. Loses all ammo upon taking damage.
+|-
+|[[File:Shock Rifle.png|32px]] || [[Shock Rifle]] || Zap 
+|| {{Quality|B}} || Semiautomatic ||15||250
+|8
+|0.20
+|1.5
+|140
+|{{Infinity}}
+|20
+|5|| Fires a zap of electricity.
+|-
+|[[File:Bait Launcher.png|32px]] || [[Bait Launcher]] || Meat Your Maker 
+|| {{Quality|C}} || Charged || 1 || 60 
+|10
+|0.50
+|1.0
+|20
+|{{Infinity}}
+|8
+|5|| Fires a steak that causes a tiger to appear and maul the target.
+|-
+|[[File:Brick Breaker.png|32px]] || [[Brick Breaker]] || Wrong Kind Of Mortar 
+|| {{Quality|C}} || Semiautomatic ||  5
+||200
+|10
+|0.50
+|1.2
+|20
+|{{Infinity}}
+|10
+|2|| Fires piercing turtle shells that bounce off of walls.
+|-
+|[[File:Betrayer's Shield.png|32px]] || [[Betrayer's Shield]] || Actually A Gun 
+|| {{Quality|B}} || Automatic || 12 || 350 
+|6
+|0.10
+|1.5
+|23
+|18
+|12
+|5|| Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets. 
+|-
+|[[File:Lower Case r.png|32px]]||[[Lower Case r]]|| Alphabetical!
+||{{Quality|D}}|| Burst || 36 || 900
+|2.222...
+|0.07
+|2.0
+|25
+|{{Infinity}}
+|14
+|0
+|| Fires a burst of 6 bullets that spell out the word bullet.
+|-
+|[[File:Excaliber.png]] || [[Excaliber]] || Once And Future 
+|| {{Quality|B}} || Burst || 32 || 280 
+|7
+|0.15
+|0.48
+|26
+|{{Infinity}}
+|15
+|0
+|| Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases [[curse]] by 2.5.
+|-
+|[[File:Face Melter.png|32px]] || [[Face Melter]] || Squiddley-squiddley-wheeyooo! 
+|| {{Quality|B}} || Automatic ||600 ||600
+|4
+|0.10
+|1.2
+|15
+|15
+|13
+|6|| Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one.
+|-
+| [[File:Really Special Lute.png|32px]] || [[Really Special Lute]] ||  ||{{Quality|C}}
+|  ||  || 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|[[File:Trident.png|32px]] || [[Trident]] || Under The Sea 
+|| {{Quality|A}} ||Semiautomatic||6||300
+|8
+|0.08
+|1.0
+|600
+|{{Infinity}}
+|4
+|0||Fires a long-range laser that pierces one enemy. Destroys nearby bullets and pushes enemies away while reloading.
+|-
+| [[File:Kruller Glaive.png|32px]] || [[Kruller Glaive]] || Studied the Blade ||{{Quality|B}}
+| Charged || 1 || 
+|
+|
+|
+|
+|
+|
+|
+| Throws a boomerang-like projectile that homes in on multiple enemies, damaging and sometimes stunning them.
+|-
+|[[File:Abyssal Tentacle.png|32px]]|| [[Abyssal Tentacle]] || Look Away 
+|| {{Quality|A}} || Beam || 500 || 500 
+|22.5/s
+|0.10
+|N/A
+| {{Infinity}}
+|30
+|10
+|0|| Fires a tentacle that homes in on and grips enemies, damaging them. 
+|-
+|[[File:Quad Laser.png|32px]] || [[Quad Laser]] || No One Can Defeat It 
+|| {{Quality|C}} || Semiautomatic ||  1
+||50
+|80
+|0.07
+|1.5
+|1
+|15
+|32
+|5|| Fires a large, square, extremely slow bullet.
+|-
+|[[File:Tetrominator.png|32px]]
+|[[Tetrominator]]
+|LINE PIECE!
+|
+|Semiautomatic
+|13
+|301
+|
+|
+|
+|
+|
+|
+|
+|Fires random tetrominoes that stick to enemies. Line pieces explode, dealing more damage the more tetrominoes are stuck to an enemy.
+|-
+|[[File:Pitchfork.png|32px]] || [[Pitchfork]] || Get Forked! 
+|| {{Quality|C}} || Semiautomatic || 100 || 200 
+|4
+|0.15
+|0.0
+|23
+|{{Infinity}}
+|35
+|5|| Fires piercing fireballs that [[burn]].
+|-
+| [[File:Evolver.png|32px]] || [[Evolver]] || Tamagunchi ||{{Quality|C}}||  ||  || 
+|
+|
+|
+|
+|
+|
+|
+|Killing enemies evolves the gun through 6 forms.
+|-
+|[[File:Gungeon Ant.png|32px]] || [[Gungeon Ant]] || What Army? 
+|| {{Quality|C}} || Semiautomatic || 6 || 100 
+|Oil: 6 (2x3)
+Fire: 4.5 (1.5x3)
+|0
+|1.2
+|26
+|{{Infinity}}
+|25
+|0|| In oil mode, creates oil puddles on impact. In fire mode, fires fireballs that pierce and [[burn]]. Reloading switches modes.
+|-
+|[[File:Life Orb.png|32px]]
+|[[Life Orb]]
+|Your Soul is Mine
+|{{Quality|A}}
+|Beam
+|600
+|600
+|20/s
+|0.10
+|
+|
+|
+|
+|
+| After killing an enemy, reloading damages all enemies in the room.
+|-
+|[[File:Alien Engine.png|32px]] || [[Alien Engine]] || The Dangerzone 
+|| {{Quality|B}} || Automatic || 400 || 1000 
+|10
+|0.02
+|0.9
+|30
+|3
+|10
+|0|| Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil.
+|-
+|[[File:Microtransaction Gun.png|32px]] || [[Microtransaction Gun]] || Pay To Win 
+|| {{Quality|A}} || Semiautomatic || Equal to Coins held || - 
+|2/8/15/20
+|0.20
+|N/A
+|
+|
+|
+||| Shoots various figurines, books, and gems at the cost of 1 coin per shot.
+|-
+|[[File:Poxcannon.png|32px]] || [[Poxcannon]] || Lousy T-Shirt
+|| {{Quality|C}} ||  Semiautomatic
+||  6
+|| 250
+|15
+|0.35
+|1.7
+|25
+|{{Infinity}}
+|60
+|5|| Shoots poisonous t-shirts with high knockback. Poisoned enemies create a poison puddle on death.
+|-
+|[[File:T-Shirt Cannon.png|32px]] || [[T-Shirt Cannon]] || Machine Gun Wash Only! 
+|| {{Quality|D}} || Semiautomatic || 6 || 250 
+|8
+|0.35
+|0.9
+|25
+|{{Infinity}}
+|60
+|5|| Fires t-shirts that have high knockback.
+|-
+|[[File:Banana.png|32px]] || [[Banana]] || Planpain 
+|| {{Quality|C}} || Charged ||7||50
+|10 (impact) + 30 (explosion)
+|1.00
+|0.01
+|23
+|{{Infinity}}
+|35
+|6|| Fires an explosive banana that sends out three more bouncing explosive bananas.
+|-
+|[[File:Bee Hive.png|32px]] || [[Bee Hive]] || Bzzzzzzz! 
+|| {{Quality|B}} || Automatic ||  150
+||  300
+|3
+|0.10
+|0.06
+|9
+|{{Infinity}}
+|2
+|90
+|| Fires bees that home in on and damage enemies.
+|-
+|[[File:Silencer.png|32px]] || [[Silencer]] || 300 Dead Count 
+|| {{Quality|C}} || Semiautomatic || 8 || 200 
+|13
+|0.60
+|1.5
+|23
+|60
+|30
+|5
+|| Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy.
+|-
+|[[File:Camera.png|32px]] || [[Camera]] || Say Cheese 
+|| {{Quality|C}} || Charged ||  4
+||  60
+|10
+|0.20
+|2.0
+|60
+|{{Infinity}}
+|1
+|7
+|| Damages all enemies in the room, with a chance to [[stun]].
+|-
+| [[File:Directional Pad.png|32px]] || [[Directional Pad]] || Input Output || {{Quality|B}} || Automatic || 30 || 120
+|8 (normal)<br>45 (fireball)<br>10 (grappling hook)
+|0.30
+|1.6
+|
+|
+|
+|
+| Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest.
+|-
+|  [[File:3rd Party Controller.png|32px]]||[[3rd Party Controller]]|| Assuming Direct Control ||{{Quality|A}}|| Semiautomatic|| 10 || 300
+|
+|
+|
+|
+|
+|
+|
+|Upon hitting an enemy, they will move in the same direction the player moves, and shoot towards the crosshair if the player shoots. 
+|-
+|[[File:Gunzheng.png|32px]] || [[Gunzheng]] || Hustle 
+|| {{Quality|B}} ||  Automatic
+||  350
+||  800
+|6
+|0.07
+|0.0
+|32
+|{{Infinity}}
+|8
+|35
+|| Rapidly fires inaccurate, piercing, homing arrows.
+|-
+|[[File:Sling.png|32px]] || [[Sling]] || Outrageous! 
+|| {{Quality|D}} || Charged || 1 || 80 
+|25
+|0.10
+|0.9
+|23
+|{{Infinity}}
+|35
+|0|| Fires bouncing rocks. Deals 2.5x damage to bosses and 2x damage after bouncing. 
+|-
+|[[File:Cactus.png|32px]] || [[Cactus]] || 1000 Needles! 
+|| {{Quality|C}} || Automatic || 1000 || 1000 
+|2.5
+|0.10
+|0.0
+|60
+|{{Infinity}}
+|1
+|7|| Fires needles.
+|-
+|[[File:Black Hole Gun.png|32px]] || [[Black Hole Gun]] || Won't You Come 
+|| {{Quality|A}} || Charged ||1||30
+|10
+|1.00
+|1.56
+|4
+|{{Infinity}}
+|9
+|0|| Fires black holes that attract enemies and enemy bullets. 
+|-
+|[[File:BSG.png|32px]] || [[BSG]] || Big Shooty Gun 
+|| {{Quality|S}} || Charged ||1||25
+|50
+|4.00
+|2.4
+|25
+|{{Infinity}}
+|10
+|0|| Slowly charges up to fire a large high-damage projectile.
+|-
+|[[File:Compressed Air Tank.png|32px]] || [[Compressed Air Tank]] || You Know My Work 
+|| {{Quality|A}} || Charged || 1 || 50 
+|50
+|0.60
+|1.2
+|35
+|{{Infinity}}
+|60
+|6|| Fires sharks that swim around the room, seeking enemies and biting them. 
+|-
+|[[File:Serious Cannon.png|32px]] || [[Serious Cannon]] || Seriously MENTAL 
+|| {{Quality|A}} || Charged || 1 || 30 
+|50
+|0.60
+|1.5
+|35
+|{{Infinity}}
+|60
+|6|| Fires large bouncing cannonballs.
+|-
+|[[File:Makeshift Cannon.png|32px]] || [[Makeshift Cannon]] || You Only Get One Shot 
+|| {{Quality|S}} || Charged || 1 || 1 
+|1213.3 (approx)
+|0.50
+|2.1
+|35
+|{{Infinity}}
+|60
+|6|| Fires a single blast that deals a large amount of damage.
+|-
+| [[File:Devolver.png|32px]] || [[Devolver]] || Degenerates || {{Quality|C}} || Semiautomatic || 6 || 100
+|6
+|
+|
+|
+|
+|
+|
+| Has a chance to devolve enemies into simpler enemies.
+|-
+|}
