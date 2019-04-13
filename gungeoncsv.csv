@@ -1,0 +1,254 @@
+Icon,Name,Quote,Quality,Type,Magazine Size,Ammo Capacity,Damage,Fire Rate,Reload Time,Shot Speed,Range,Force,Spread,Notes
+,Rusty Sidearm,Still Works. Mostly.,,Semiautomatic,6,,6,0.20,1.2,16,16,10,7,Starting gun of The Hunter. Does not crack secret walls.
+,Marine Sidearm,Always With You,,Semiautomatic,10,,5,0.25,1.2,25,18,12,5,Starting gun of The Marine. Does not crack secret walls.
+,Rogue Special,Underhanded And Efficient,,Semiautomatic,8,,5,0.25,1.2,22,13,6,10,"Fires short-range, inaccurate lasers. Starting gun of The Pilot. Does not crack secret walls."
+,Budget Revolver,Affordable Arms,,Semiautomatic,5,,6,0.15,0.9,23,18,10,10,Starting gun of The Convict. Does not crack secret walls.
+,Dart Gun,Sticky,,Semiautomatic,6,,6,0.20,1.0,20,25,2,5,Fires sticky darts. Starting gun of The Cultist. Does not crack secret walls.
+,Robot's Right Hand,Built To Kill,,Semiautomatic,20,,5,0.20,1.2,25,20,10,7,Starting gun of The Robot. Does not crack secret walls.
+,Blasphemy,To The Point,,Semiautomatic,N/A,,14,0.20,1.0,26,,10,10,"Starting weapon of The Bullet. Swings destroy nearby bullets. At full health, swings send out a piercing sword projectile. Does not crack secret walls."
+,Casey,Batting .50,,Charged,1,,100,,,,,,,Charged swings reflect nearby bullets. Does not crack secret walls. Increases curse by 2.
+,Pea Shooter,Baby's First Gun,,Semiautomatic,6,1000,4,0.15,1.5,20,20,3,10,Fires peas.
+,38 Special,For The Inquisitive,,Semiautomatic,6,350,5,0.07,0.78,23,35,10,5,Fires faster right after a dodge roll.
+,Derringer,One Last Trick,,Semiautomatic,2,200,10,0.07,1.2,23,60,30,6,
+,Slinger,Farewell to arms,,Semiautomatic,7,,"6 (bullet)
+4 (gun)",,,,,,,"Starting weapon of The Gunslinger. Reloading throws the gun, which has a chance to stun enemies. Does not crack secret walls."
+,Unfinished Gun,Still Warm,,Semiautomatic,15,350,6,0.20,1.5,15,35,6,15,Fires piercing bullets.
+,Finished Gun,Thanks For Playing,,Semiautomatic,5,500,,,,,,,,Replaces Unfinished Gun once the Ammonomicon is complete.
+,Elimentaler,Full of Holes,,Semiautomatic,15,,5.5,0.22,1.2,,,,,"Encases enemies in cheese, freezing them. Enemies that die while cheesed spawn a large cheese pool, which cheeses any enemies that step in it."
+,Bullet,Fires Guns,,Semiautomatic,6,250,"Gun: 7
+Bullet: 4",0.2,1.0,,,,,Fires rotating guns which fire bullets as they travel.
+,Shell,Fires Shotguns,,Semiautomatic,6,150,"Shotguns: 8
+Bullets: 4",0.5,1.4,,,,,"Fires three shotguns, each of which fires three bullets upon hitting something."
+,Hyper Light Blaster,Skill Honed Sharp,,Semiautomatic,12,12,20,0.15,1.5,,,,,"Has very low ammo, but regenerates 1 ammo if a shot hits an enemy."
+,Boxing Glove,Pistol Hondo,,Charged,350,350,"Regular: 12
+Super: 200",0.40,,,,,,"Shoots a boxing glove with a chance to stun. Gains a star each time it kills an enemy, up to 3. When at 3 stars, can be charged to consume the stars and fire a high-damage super punch. Increases curse by 1."
+,Makarov,The People's Gun,,Semiautomatic,7,350,5,0.15,1.2,23,60,10,4,
+,Trank Gun,Non Non Lethal,,,,,,,,,,,,Stuns enemies.
+,M1911,Classic,,Semiautomatic,7,200,8,0.15,1.2,23,60,30,6,
+,Magnum,5 Shots Or 6?,,Semiautomatic,6,140,13,0.15,1.0,23,60,30,7,
+,Colt 1851,You Dig,,Burst,12,350,6,0.21,1.5,25,,10,8,Fires a burst of two bullets.
+,SAA,Exhilarating Reload Time,,Semiautomatic,6,200,Direct: 8 Bounce: 12,0.12,0.6,25,,14,0,Fires bouncing bullets that aim towards enemies after bouncing.
+,Cold 45,Shatterday Night Special,,Semiautomatic,12,350,6,0.15,1.2,28,35,10,6,Fires bullets that freeze enemies.
+,Polaris,Storied,,Semiautomatic,12,450,Level 1: 5 Level 2: 12 (6x2) Level 3: 20,0.25,0.6,40,,30,5,"Has 3 levels. Killing enough enemies causes the gun to level up, increasing its damage. Taking damage decreases its level by 1."
+,Jolter,.95 Caliber,,Semiautomatic,12,200,13,0.25,1.2,25,25,50,10,Fires large and rectangular bullets with high knockback.
+,Dungeon Eagle,Caw!,,Charged,9,200,Uncharged: 10 Charged: 20,0.20,1.2,25,60,10,10,Can be charged to fire more powerful shots.
+,Grey Mauser,Silent And Deadly,,Semiautomatic,10,100,8,0.10,1.5,32,,9,8,Reloading an empty clip makes the player invisible. Can be used to steal from shops.
+,Vorpal Gun,.50 Criticaliber,,Semiautomatic,6,250,5,0.10,0.90,,,,,Has a chance to fire a critical shot which deals 20 times its damage.
+,High Kailber,Soul Reaver,,Semiautomatic,,666,,,,,,,,Causes enemy souls to leave their bodies. Touching a soul deals high damage to the enemy.
+,Shellegun,Circle Of Death,,Semiautomatic,"12 (pistol)
+20 (beam)",300,8,0.10,1.08,25,30,22,5,Reloading alternates between a pistol and a continuous beam. Increases curse by 1.
+,Dueling Pistol,Ricochet,,Semiautomatic,1,120,10,0.20,1.2,30,,15,8,Fires large piercing bullets that bounce twice.
+,AU Gun,Some Assembly Required,,Semiautomatic,1,22,100,0.20,1.2,25,,10,0,Fires a single powerful bullet.
+,Big Iron,Heavy,,Semiautomatic,6,150,21 (7x3),0.33,1.2,16,16,10,4,Fires a random spread of three bullets.
+,Composite Gun,Undetectable,,Charged,2,50,Uncharged: 40 Charged: 100,0.20,0.6,25,,10,0,Charged shot consumes all ammo in magazine and will activate a blank effect when it hits a wall.
+,Flare Gun,Over Here,,Semiautomatic,1,150,13,0.10,0.8,23,,35,6,Fires bullets that have a chance to burn enemies.
+,Smiley's Revolver,All Smiles,,Semiautomatic,6,250,9,0.10,0.7,23,60,30,6,Decreases shop prices while held. Fire rate increased shortly after rolling.
+,Shades's Revolver,Someone Loses An Eye,,Semiautomatic,6,150,15,0.30,1.5,23,60,30,6,Increases coolness by 3.
+,Knight's Gun,Plowshare,,Semiautomatic,6,180,,,,,,,,Fires five bullets in an arrow shape. Gains some pickups when reloading an empty clip.
+,GuNNER,Backpack Not Included,,Semiautomatic,12,200,13.5,,1.0,,,,,Taking damage while GuNNER is held drains 40 ammo and drops a skull that heals the player upon pickup.
+,Regular Shotgun,Cocked And Loaded,,Semiautomatic,8,150,24 (4x6),0.60,1.8,23,60,30,10,
+,Big Shotgun,A Shotgun That's Big,,Semiautomatic,5,40,"Large: 45 (15x3)
+Small: 5.5",0.6,2.1,,,,,"Fires three exploding shots that burst into bullets. Reloading next to Shotgun Kin sucks them up, killing them and restoring 1 ammo."
+,Old Goldie,For The Discerning,,Semiautomatic,4,70,35 (3.5x10),0.50,1.2,23,60,30,5,Increases coolness by 1.
+,Sawed-Off,No Butts About It,,Semiautomatic,6,150,16 (4x4),0.50,1.2,23,60,30,8,Starting gun of The Convict.
+,Winchester,Better Than A Box Of Roses,,Semiautomatic,8,100,24 (4x6),0.60,1.7,23,60,30,7,
+,Rattler,Snakes On A Gun,,Semiautomatic,8,200,21 (3x7),0.20,1.2,23,60,30,0,Simultaneously fires a shotgun blast and a beam that has a chance to poison enemies.
+,Bubble Blaster,The Suds,,Automatic,100,500,12,0.12,1.4,,,,,Fires bubbles which move slowly towards enemies. Reloading the gun launches bubbles away from the player at high speed.
+,Elephant Gun,Shoots Elephants,,Semiautomatic,2,120,33 (5.5x6),0.60,1.5,23,60,30,0,Fires a cone spread of bullets with high knockback.
+,Tangler,Get Wrecktangled,,Semiautomatic,4,150,36 (6x6),0.60,1.5,23,60,30,10,Fires a shotgun blast of rectangular bullets that bounce off walls. Enemies hit will be folded into a rectangle.
+,Void Shotgun,CQC,,Semiautomatic,4,120,30 (5x6),0.40,1.2,23,60,30,0,Fires 6 purple bullets with high knockback.
+,Mass Shotgun,My Favorite Gun,,Semiautomatic,1,200,Ball: 30 Split: 72 (6x12),0.40,1.2,23,60,30,0,Shoots a large slow projectile that will split up in a barrage of small bullets shortly afterwards.
+,Shotgun Full of Hate,Hate Is Power!,,Semiautomatic,8,150,6x4 (bullets) + 5 (skull) + 3 (nail),0.45,1.2,23,60,30,14,"Shoots a shotgun burst of skulls, nails, regular bullets, and poison bullets that leave pools of poison goop."
+,Shotgun Full of Love,Kill With Kindness,,Semiautomatic,8,120,30 (5x6),0.45,1.2,23,60,30,14,Has a chance to Charm enemies.
+,Shotgrub,No Worries!,,Semiautomatic,8,250,25 (5x5),0.9,1.5,23,60,30,0,Fires a spread of 5 bullets that leave small pools of poison goop.
+,Gilded Hydra,Heads Up!,,Semiautomatic,1+,50,60 (7.5x8),0.40,2.0,23,60,30,0,"Fires a large burst of piercing, bouncing bullets. Clip size is increased by 1 for each half heart the player is missing, and healing decreases clip size."
+,Blunderbuss,Shoots Anything,,Charged,4,100,30 (3x10),0.50,1.2,26,,25,20,Fires a short-ranged spray of bullets.
+,Pulse Cannon,Time Of Death…,,Semiautomatic,8,120,24 (4x6),0.6,1.8,23,60,60,0,Fires a shotgun blast spread of 6 bullets.
+,Siren,Mershotgun,,Semiautomatic,6,200,18 (6x3),0.40,1.5,23,60,30,0,Fires a shotgun blast of bullets that leave pools of water. Negates fall damage and goop effects while equipped.
+,Zilla Shotgun,Quadruple the fun!,,Charged,4,240,Uncharged: 32 (4x8) Charged: 42 (6x7),0.50,1.5,26,,26,20,"Can be charged to fire the entire magazine at once, which will cause it to fire piercing, bouncing bullets."
+,Ice Breaker,Never Let Go,,Semiautomatic,3,200,Ice: 10 (2x5) Explosive: 35,0.40,0.9,23,60,30,0,"The first two shots fire a shotgun blast of ice bullets, and the final shot fires a single explosive shot."
+,The Membrane,Green Or Yellow?,,Semiautomatic,6,120,Before split: 24 (4x6) After split: 36 (3x12),0.45,1.2,22,30,6,8,Fires a shotgun blast of bouncing green bullets that split into more bouncing green bullets.
+,Huntsman,Axes Of Evil,,Semiautomatic,6,150,21 (3.5x6),0.65,1.2,23,50,10,10,Fires a shotgun blast of bullets. Reloading destroys nearby bullets. Increases curse by 1.
+,Blooper,Close Your Bloop,,Semiautomatic,5,80,42 (7x6),0.65,2.0,23,60,30,0,Fires shotgun blasts of blue bullets with high knockback.
+,JK-47,Substitute,,Automatic,,,,,,,,,,Reloading inflicts fear on nearby enemies.
+,Bow,Hold Fire To Charge,,Charged,1,100,Uncharged: 7.5 Charged: 30,1.00,0.12,26,,25,0,Fully charged shots pierce.
+,Charmed Bow,<3-----<<<,,Charged,1,150,Uncharged: 7.5 Charged: 14,,0.0,,,,,Charms enemies when fully charged.
+,Crossbow,The Original,,Semiautomatic,1,100,22,0.50,0.75,26,,25,7,Fires bolts. Starting gun of The Hunter.
+,Sticky Crossbow,"Reload, Explode",,Semiautomatic,6,100,5 (arrow) + 15 (explosion),0.45,1.5,25,,8,0,Fires bolts that stick to enemies and explode upon reloading.
+,Shotbow,A Teleporter Accident,,Semiautomatic,3,80,36 (6x6),1.00,1.5,26,,25,5,Fires a shotgun blast of bolts.
+,Triple Crossbow,3 > 1,,Semiautomatic,3,100,Slow: 7 Triple: 21 (7x3),0.1,0.9,26,,25,5,Reloading alternates between triple bolts and single bolts that slow enemies.
+,Crescent Crossbow,Moon Shot,,Charged,12,100,Large: 22 Medium: 8 Small: 3,0.20,1.5,32,,20,0,Fires stars that split into smaller bouncing stars.
+,Gunbow,Failed Experiment,,Charged,1,60,35,0.001,1.0,26,,25,0,"Fires a fast, piercing projectile that ricochets many times."
+,Klobbe,Everyone's Favorite,,Automatic,32,900,1.2,0.04,2.0,14,,1,20,Rapidly fires low-damage bullets.
+,Machine Pistol,Rapid Fire,,Automatic,30,600,3.2,0.07,1.2,23,16,6,10,
+,Thompson Sub-Machinegun,"Myeah, See!",,Automatic,30,350,5,0.10,0.78,23,,9,10,
+,AK-47,Accept No Substitutes,,Automatic,30,500,5.5,0.11,0.6,23,,9,4,
+,Strafe Gun,Bleeding Edge Gameplay,,Automatic,20,400,"Impact: 1 
+Explosion: 8",0.13,1.4,,,,,Fires nails that explode upon releasing the trigger.
+,AKEY-47,Unlocked And Loaded!,,Automatic,30,500,5.5,0.11,0.6,23,,9,4,"Opening a locked chest or door with the gun equipped opens it for free. Alternatively, shooting a locked chest or door unlocks it."
+,Stone Dome,Big Head Mode,,Automatic,750,750,4.5,0.20,,,,,,"Sits on the player's head and rapidly fires homing bullets. While held, inflicts fear on nearby enemies. Increases curse by 1."
+,Crown of Guns,All Hail,,Automatic,,3000,5.5,0.04,,,,,,Sits atop the player's head and fires bullets in all directions.
+,M16,Underslung,,Burst,"30 (machine gun)
+3 (grenade launcher)",500,Gun: 5.5 Grenade: 10 (impact) + 25 (explosion),0.10,1.2,23,,11,7,Reloading alternates between bursts of 3 bullets and a grenade launcher.
+,Combined Rifle,Halve Lives,,Automatic,"30 (gun)
+1 (ball)",500,"5 (gun)
+100 (ball)",0.12,1.0,,,,,"Reloading alternates between a rapid-fire rifle and a bouncing, piercing energy ball."
+,Zorgun,Don't Push The Red Button,,Automatic,30,300,5.5,0.10,0.6,23,,9,5,"Rapidly fires homing bullets. The final bullet in each clip fires a random explosive (grenade, rocket, or drill)."
+,The Fat Line,Technobabble,,Automatic,100,500,4,,3.0,,,,,"Fires purple bullets, which start at the wall the gun is aimed at and travel back towards the gun. Bullets will curve and home in on enemies as they travel."
+,Mr. Accretion Jr.,Music of the Spheres,,Semiautomatic,20,100,,0.7,1.9,,,,,Fires planets which start orbiting the player if they hit a wall or obstacle.
+,VertebraeK-47,Nervous Yet?,,Automatic,30,250,4 (bullet) 2 (chain),0.10,1.5,18,,6,5,"Bullets close to each other will form links between each other, which hurts enemies on touch."
+,Balloon Gun,Hot Air,,Automatic,10,250,12,0.25,1.6,,,,,"Fires small homing tornadoes. While held, grants flight but loses all ammo on taking damage."
+,MAC10,$#!^@ Never End,,Burst,30,600,3.5,0.07,1.0,23,,3,10,Fires a burst of four bullets.
+,Triple Gun,Bullet the Stampede,,Varies,,,,,,,,,,Changes form based on how much ammo it has left.
+,Heck Blaster,"Whoa, Nelly",,Automatic,999,999,2.5,0.05,0.3,40,14,3,8,Rapidly fires invisible bullets. Jammed enemies hit will revert to normal.
+,Patriot,Gun Eater,,Automatic,100,500,7,0.30,1.0,30,,15,1,Fires piercing bullets. Fire rate increases rapidly as the trigger is held.
+,AC-15,Metalled Gear,,Automatic,40,300,"Unarmored: 3.8
+Armored: 15",Unarmored: 0.125 Armored: 0.5,1.8,,,,,Becomes more powerful if the player has armor.
+,Vulcan Cannon,Boundless Slaughter,,Automatic,900,900,5,0.05,0.6,35,,15,12,
+,Plague Pistol,Chemical Warfare,,Semiautomatic,12,200,4,0.15,1.2,20,25,13,5,Bullets create poison puddles on impact.
+,Gungine,12 Cylinder,,Automatic,100,800,5,0.05,1.14,35,,15,6,Greatly increases movement speed while held. Reloading clears nearby goop and refills the gun's ammo.
+,The Predator,High-tech $#!*,,Semiautomatic,8,150,25,,,,,,,Locks onto enemies and fires high speed homing lasers. Invisibility while reloading an empty magazine.
+,Dragunfire,Roar,,Automatic,30,600,5,0.05,1.6,25,,27,7,Rapidly fires burning bullets that have a chance to inflict Burn.
+,Sniper Rifle,Scope Creep,,Semiautomatic,10,80,26,1.00,1.5,200,,15,1,Fires bullets that can pierce through one enemy.
+,A.W.P.,Noob Cannon,,Semiautomatic,8,50,40,1.20,2.1,100,,25,5,Fires bullets that can pierce through one enemy.
+,M1,Bolt Action,,Semiautomatic,6,100,20,0.80,1.3,200,60,25,2,Fires high-speed piercing bullets.
+,Winchester Rifle,Guns And Deviltry.,,Semiautomatic,12,130,15,0.72,1.2,32,,9,5,
+,Corsair,Plot A Course,,Charged,1,200,10,0,0.5,26,,25,5,"Fires slow, bouncing bullets that accelerate and curve towards enemies."
+,Railgun,Calibrating,,Charged,1,40,50,,0.6,,,,,Fires a fast-moving piercing bullet that bounces many times.
+,Prototype Railgun,DANGER: HIGH VOLTAGE,,Charged,1,40,150,,0.6,,,,,Fires a fast-moving piercing bullet.
+,Void Marshal,Acquired Under The Table,,Semiautomatic,15,250,9,0.10,1.2,35,35,10,7,
+,Deck4rd,Unicorn Of Handguns,,Semiautomatic,2,40,5 (impact) + 35 (explosion),0.20,1.5,20,,22,10,Fires a single powerful bullet that will explode upon impact.
+,The Judge,Hot Shot,,Semiautomatic,9,400,7.5,0.15,1.0,30,,9,7,"The final shot of each clip has a chance to poison, freeze or ignite enemies. (likely more effects possible)"
+,Mourning Star,Satellite Rain,,Beam,800,800,~110/s,0.3,,,,,,Calls down a controllable orbital laser.
+,Alien Sidearm,Shield Breaker,,Charged,10,350,Uncharged: 5 Charged: 25,0.15,1.2,23,15,10,5,Charged shots are larger and deal more damage.
+,RUBE-ADYNE Prototype,It Never Quits,,Semiautomatic,6,200,7,0.12,0.6,40,60,10,5,Fires lasers that bounce four times.
+,RUBE-ADYNE MK.II,Polished Product,,Semiautomatic,15,300,8,0.10,0.48,40,35,10,7,Fires bouncing lasers with limited range.
+,Rubenstein's Monster,Unit 00,,Automatic,100,900,7,0.07,,,,,,Created when both RUBE-ADYNE Prototype and RUBE-ADYNE MK.II are picked up. Rapidly fires bouncing lasers.
+,Chamber Gun,Product of Environment,,,,,,,,,,,,Transforms based on the current chamber.
+,Gunderfury,Gun of Guncraft,,Semiautomatic,8/30/40/50,200/300/350/400/500,,,,,,,,"Gains persist experience and levels up with kills, changing its appearance and stats."
+,Mine Cutter,Safety First,,Semiautomatic,12,250,Triple: 10 Single: 8,0.10,1.2,23,60,30,7,"Reloading alternates between firing three small, piercing, parallel lasers and single large lasers."
+,Void Core Assault Rifle,Rapid Fire,,Burst,30,300,6.5,0.35,1.2,23,20,15,3,Fires bursts of three lasers.
+,Flash Ray,Ah Ahhh!,,Semiautomatic,8,350,7.5,0.20,1.2,600,,4,10,Shoots piercing lasers with a chance to stun.
+,Wind Up Gun,Charge It,,Automatic,20,600,5,0.13,1.5,30,35,10,8,"In each magazine, the first 10 bullets pierce. The last 10 deal half damage."
+,H4mmer,Many Bullets,,Automatic,30,450,Bullets: 3.8 Hammer: 20,0.05,0.6,23,,6,7,"Fires a barrage of bullets. The last shot in the magazine is a hammer, which deals extra damage and can stun enemies."
+,Snakemaker,SSSSSSSSSSS,,Semiautomatic,10,200,12,0.25,1.2,50,,10,0,Has a chance to transmogrify enemies into snakes.
+,Turbo-Gun,Repetitive Strain,,Automatic,6,180,8.4 (base),0.10,1.0,,,,,Damage increases for the next magazine depending on the number of reload attempts during its reload.
+,Hegemony Carbine,All The Same,,Automatic,25,600,3.5,0.10,1.4,30,50,4,5,Shoots rapid fire white bolts of energy.
+,Screecher,Cover Your Ears!,,Automatic,1000,1000,1.5,0.05,0.6,12,12,0,0,Rapidly fires piercing sound waves that have a small chance to stun.
+,Laser Lotus,Level 5,,Semiautomatic,10,150,16,0.20,1.38,45,,26,5,Fires piercing lasers.
+,Hegemony Rifle,So Precise,,Semiautomatic,15,250,10,0.25,1.2,35,15,15,13,Rapidly fires inaccurate white lasers.
+,Fightsabre,Heresy,,Automatic,25,500,6,0.15,1.5,23,50,10,8,"Reloading swings the gun around, reflecting nearby bullets. Increases curse by 2."
+,Helix,Splice 'n' Dice,,Semiautomatic,12,250,15 (7.5x2),0.25,2.0,35,35,10,7,Fires two bullets in a helix pattern.
+,Laser Rifle,Blast Off!,,Burst,24,500,5,0.50,1.2,200,60,16,5,Fires a burst of three lasers.
+,Crestfaller,Cold Reality,,Semiautomatic,8,250,10,0.45,1.2,40,,11,6,Fires bullets that slow and have a chance to freeze.
+,Rad Gun,Totally Rad,,Semiautomatic,12,250,Varies,0.15,Varies,,,,,"Increases coolness by 2. When reloading, if the reload button is hit at the right time, the gun's damage is increased. Failing a reload resets the damage."
+,Thunderclap,Lightning In A Bullet,,Semiautomatic,15,300,8,0.15,1.7,20,,10,5,Fires balls of lightning.
+,Charge Shot,Hold To Fire,,Charged,5,75,30,0.01,1.0,26,,25,5,Fires a large laser that pierces enemies and bounces off of walls two times. Laser deals higher damage after bouncing.
+,Dark Marker,Big Bang,,Semiautomatic,12,200,Bullets: 8 Explosion: 80,0.20,2.0,32,,20,0,Charge shot consumes the entire clip to create a room-wide explosion and blank effect.
+,Particulator,Strange Matter,,Semiautomatic,1,60,Large: 30 Small: 7,0.70,2.4,10,10,8,0,"Fires a large bullet, which will split into 10 bullets which seek out enemies."
+,The Emperor,Electric Terror,,Burst,30,300,7,0.30,1.2,20,50,10,7,Fires a burst of four bullets connected by electricity.
+,RPG,Leveled Up,,Semiautomatic,1,40,20 (impact) + 35 (explosion),1.00,3.0,40,90,10,5,Fires grenades.
+,Grenade Launcher,Fwomp!,,Semiautomatic,1,25,10 (impact) + 25 (explosion),1.20,0.78,20,20,20,4,Shoots a grenade that bounces off of surfaces and explodes on impact with enemies.
+,Stinger,Drone Warfare,,Semiautomatic,1,50,10 (impact) + 15 (explosion),1.00,2.0,20,60,10,1,Fires homing rockets that explode into bees.
+,The Exotic,Pack of Wolves,,Semiautomatic,1,50,25 (impact) + 15 (explosion) + 35 (7 * 5 mini rockets),,1.5,,,,,"Fires rockets which burst into more homing rockets. While held, grants a ghost companion that follows the player and reveals the contents of nearby chests."
+,Com4nd0,You're Fired,,Semiautomatic,4,40,20 (impact) + 25 (explosion),0.60,1.5,14,90,10,5,Fires homing rockets.
+,RC Rocket,Avoid User Error,,Semiautomatic,1,50,100 (impact) + 30 (explosion),0.60,1.5,10,200,10,1,Fires rockets guided by the player's cursor.
+,Yari Launcher,Hell. Yes.,,Automatic,20,140,10 (impact) + 15 (explosion),0.04,1.5,10,90,30,45,Rapidly fires homing rockets. Bypasses the boss DPS cap.
+,Lil' Bomber,ReFuse To Lose!,,Charged,3,60,15 (impact) + 25 (explosion),1.00,2.0,23,,35,6,Fires a bomb that bounces off of walls and explodes on enemy contact.
+,Grasschopper,Noisy,,Semiautomatic,1,30,20 (impact) + 20 (explosion),0.07,2.0,36,18,22,5,Fires a single powerful blast that has very strong recoil.
+,Void Core Cannon,Critical Strike,,,4,120,,,,,,,,"Fires bursts of four large energy balls, which home in on enemies and explode upon impact."
+,Bundle of Wands,Dark Arts,,Semiautomatic,6,150,21 (7x3),0.30,1.5,23,60,30,5,Has a chance to transmogrify.
+,Staff of Firepower,Missing Link,,Semiautomatic,"6 (gun)
+12 (staff)",200,Gun: 7 Staff: 12,0.15,1.0,25,,12,7,Reloading alternates between a rapid fire pistol and a beam weapon that can set enemies on fire.
+,Witch Pistol,Spells Your Doom,,Semiautomatic,6,350,6,0.15,1.2,27,,20,2,Fires bullets that have a chance to transmogrify enemies.
+,Hexagun,Light Fantastic,,Semiautomatic,1,75,35,0.001,1.02,200,,25,0,Fires piercing bullets that have a chance to transmogrify enemies.
+,Phoenix,Reborn In Flame,,Semiautomatic,12,350,4,0.15,1.2,25,25,13,3,Shooting creates a small cone of fire in front of the player that burns enemies.
+,Magic Lamp,"One Wish, Three Times",,Semiautomatic,3,100,8 (shots) 115 (genie),0.50,1.2,12,,10,5,Hitting an enemy three times causes a genie to punch them.
+,Teapot,Monocular Monster,,Semiautomatic,12,250,,,,,,,,"While reloading, ignites nearby enemies."
+,Gunslinger's Ashes,"Spirit, Willing",,Semiautomatic,6,80,Contact: 12 Shots: 15 (5x3),0.60,1.2,1,6,25,0,Fires slow homing ghosts that shoot and deal contact damage.
+,Luxin Cannon,Omnichrome,,Automatic,30,600,4.5,0.07,1.5,60,,10,6,"Fires laser shots at enemies. The last bullet of magazine fires a crystal, which splits into 5 small crystals on impact."
+,Gunther,Jealous Weapon,,Semiautomatic,15,,First Stage: 6 Second Stage: 9 Third Stage: 12,0.10,1.2,16,50,20,10,Cannot be used to reveal hidden walls. Grows stronger with each room cleared.
+,Unicorn Horn,Fires Friendship,,Beam,500,500,30/s,0.10,N/A,30,30,45,0,Fires a rainbow beam that homes in on enemies. Increases curse by 1.
+,Cobalt Hammer,Break Stuff,,Charged,6,60,Uncharged: 26 Charged: 36,0.30,1.2,100,,80,0,Fires blue lasers. Charging the weapon makes it fire lasers in four directions.
+,Frost Giant,Icy Grasp,,Semiautomatic,12,130,12,0.001,1.6,20,30,10,12,Fires big bullets that have a chance to freeze.
+,Bullet Bore,Mind Muncher,,Semiautomatic,1,75,10 (impact) + 25 (explosion),1.00,1.5,20,,8,5,"Fires drills that home in on enemies, stun them, and explode after a short delay."
+,Cat Claw,Kneadle Your Foes!,,Automatic,33,400,2 (impact) + 10 (explosion),0.15,1.2,23,,2,5,Fires darts that home in on enemies and explode after a short delay. The darts deal minimal damage on contact.
+,Megahand,-P-,,Charged,18,200,Uncharged: 6 Charged: 45,0.07,0.54,20,,8,0,Has 2 levels of damage depending on how long the gun has been charged.
+,Demon Head,Wanged,,Beam,500,500,31/s,0.10,N/A,100,40,30,5,Fires a continuous beam that has a chance to inflict Burn and slightly homes in on enemies.
+,Heroine,Charge Beam Active,,Charged,6,200,Level 1: 5 Level 2: 10 Level 3: 70,0.07,0.54,25,,10,0,Has 3 levels of damage depending on how long the gun has been charged.
+,Mutation,Didn't Need Two Anyway,,Beam,500,500,45/s,0.10,N/A,40,20,50,5,Fires a continuous beam and heavily pushes back the player.
+,Flame Hand,2D6 + Int Mod,,Semiautomatic,100,200,Varying,0.50,0.0,23,,35,0,Fires fireballs that pierce enemies and have a chance to set enemies on fire.
+,Sunlight Javelin,Brilliant Aura,,Semiautomatic,150,250,,,,,,,,Shoots fiery javelins that make enemies take damage over time.
+,Machine Fist,Avalanche Of Bullets,,Automatic,50 (gun) 1 (rocket),500,Bullet: 4 Rocket: 20 (impact) + 30 (explosion),0.07,1.0,27,,15,6,"Reloading alternates between firing a gatling gun, and a single shot exploding rocket punch that is guided by the player's reticle. The rocket punch consumes 10 ammo upon firing."
+,Robot's Left Hand,See You Later,,Automatic,60,600,5,0.10,1.6,,,,,Rapidly fires blue lasers.
+,Snowballer,May Contain Rocks,,Automatic,20,400,3.5,0.15,1.2,28,35,10,10,Fires snowballs that have a chance to freeze enemies.
+,Super Meat Gun,Very Fast,,Semiautomatic,12,300,6,0.10,0.5,25,,10,5,"Fires piercing, bouncing saw blades. Slightly increases movement speed."
+,Anvillain,Practical And Safe,,Charged,3,60,35,0.10,0.5,20,,8,5,Fires piercing anvils with high knockback and a chance to stun.
+,Fossilized Gun,Proof That Guns Once Existed,,Beam,500,500,15/s,0.10,N/A,15,20,40,0,"Fires a stream of oil. Reloading spits fire, which can ignite the oil."
+,Gamma Ray,Mean Green,,Beam,800,800,15/s,0.10,N/A,,50,10,0,Fires a green laser that slightly curves towards enemies and can poison.
+,Freeze Ray,Ice To Meet You,,Beam,500,500,20/s,0.10,N/A,60,30,10,0,Fires a blue laser that has a chance to freeze enemies.
+,Science Cannon,Charged Particles,,Beam,500,500,26/s,0.10,N/A,90,500,35,0,"Fires a large laser after a short charge-up, which inflicts random status effects on enemies."
+,Disintegrator,Return To Dust,,Beam,500,500,70/s,0.10,N/A,120,50,0,0,Fires a large laser after a long charge-up.
+,Proton Backpack,Crossing Streams,,Beam,500,500,50/s,0.10,N/A,14,90,30,0,Fires a homing laser.
+,Mega Douser,Contents Under Pressure,,Beam,900,900,15/s,0.10,N/A,20,20,40,0,Fires a stream of water.
+,Plunger,Take Your Best Shot!,,Beam,500,500,5/s,0.10,N/A,20,20,40,0,Fires a stream of poison. Has a chance to poison enemies and leaves poison puddles on impact.
+,Raiden Coil,Shoot Em' Up,,Beam,500,500,15/s,0.10,N/A,,30,10,5,Fires a laser that homes in on all on-screen enemies.
+,Moonscraper,Beeeeoooowwww!,,Beam,700,700,26/s,0.10,N/A,,50,20,5,Fires a beam that reflects off of solid objects once.
+,Barrel,Nothin' Easier,,Semiautomatic,9,300,8,0.20,0.78,20,,13,7,Fires a fish that has a chance to stun and leaves a pool of water on impact.
+,Trick Gun,Reload To Transform,,Semiautomatic,6,200,Pistol: 7 Shotgun: 16 (2x8),,1.2,,,,,Reloading transforms the gun between a pistol and a shotgun.
+,Mailbox,Special Delivery,,Semiautomatic,10,350,5,0.20,1.2,22,,10,10,"Fires mail at enemies. The last bullet of each magazine is a package, which can explode, leave confetti, burn, or poison."
+,Nail Gun,Pest Control,,Semiautomatic,500,500,3,0.12,0.0,26,12,8,10,Fires a rapid stream of low damage nails. Fires faster if fire button is tapped rather than held.
+,Light Gun,Third-Party,,Semiautomatic,6,150,7,0.20,1.0,400,60,30,5,"Fires zaps of light at enemies. The last bullet in the magazine is a duck, which will automatically seek out the nearest enemy and attack them."
+,Dueling Laser,More interesting this way!,,Semiautomatic,1,,100,,,,,,,"Fires a large, piercing, high-damage laser. Needs to recharge after each shot."
+,Wood Beam,Speak Softly,,Beam,100,900,Based on swing speed (Max: 26),1.0,,,,,,Melee weapon that extends itself to hit enemies. Increases curse by 1.
+,Mahoguny,100% Organic,,Semiautomatic,10,350,Wood: 5 (impact) + 10 (explosion) Leaves: 4,0.40,1.2,15,30,20,0,Fires bouncing explosive wood bullets and several leaves.
+,The Scrambler,Bullet Or The Gun?,,Semiautomatic,1,120,6 (egg) + 9x5 (seekers),0.10,1.2,20,32,0,6,Fires bullets that hatch into many homing bullets upon hitting an enemy or obstacle.
+,Trashcannon,Take It Out!,,Semiautomatic,1,50,20,0.20,1.2,20,,20,5,Fires a trash bag that explodes into poison projectiles that leave trails of poison goop.
+,Glacier,Refill Your Trays,,Automatic,12,120,8 (impact) + 6 (explosion),0.50,1.5,18,35,8,5,Fires bouncing ice cubes that explode and freeze enemies.
+,Origuni,Thousand Cuts,,Semiautomatic,8,300,7.5,0.20,1.2,,,,,Fires paper planes that follow the player's crosshair.
+,The Kiln,Fires Pots,,Semiautomatic,8,200,Pots: 8 Crystals: 4,0.40,1.2,20,45,6,0,Fires pots that break into 3 bouncing crystals upon hitting something.
+,Skull Spitter,Hard Headed,,Semiautomatic,10,150,10,0.30,1.0,15,,10,0,Fires homing skulls.
+,Buzzkill,Sawed On!,,Semiautomatic,12,350,7,0.20,1.2,25,,10,5,"Fires piercing, bouncing sawblades."
+,Tear Jerker,Q_Q,,Semiautomatic,20,350,7,0.22,1.2,15,15,10,0,Fires tears that leave behind puddles of water.
+,Starpew,Reap And Sow,,Charged,1,100,5,,,,,,,Fires water droplets. Can be charged to increase the number of droplets fired.
+,Eye of the Beholster,What A Beauty!,,Semiautomatic,12,300,6,0.15,1.2,200,,4,4,The last shot of each clip spawns a friendly Beadie.
+,Molotov Launcher,Exactly What You Think,,Semiautomatic,1,80,6,1.50,2.5,18,35,13,5,Fires molotovs that create fire puddles on impact.
+,Glass Cannon,"Fragile, Fatal",,Charged,1,25,,,,,,,,Fires a powerful beam. Loses all ammo upon taking damage.
+,Shock Rifle,Zap,,Semiautomatic,15,250,8,0.20,1.5,140,,20,5,Fires a zap of electricity.
+,Bait Launcher,Meat Your Maker,,Charged,1,60,10,0.50,1.0,20,,8,5,Fires a steak that causes a tiger to appear and maul the target.
+,Brick Breaker,Wrong Kind Of Mortar,,Semiautomatic,5,200,10,0.50,1.2,20,,10,2,Fires piercing turtle shells that bounce off of walls.
+,Betrayer's Shield,Actually A Gun,,Automatic,12,350,6,0.10,1.5,23,18,12,5,"Upon reloading, leaves a protective shield on the ground. Players in that area will be protected until the shield has absorbed a number of bullets."
+,Lower Case r,Alphabetical!,,Burst,36,900,2.222...,0.07,2.0,25,,14,0,Fires a burst of 6 bullets that spell out the word bullet.
+,Excaliber,Once And Future,,Burst,32,280,7,0.15,0.48,26,,15,0,"Fires a burst of three piercing sword projectiles. Reloading swings the sword, destroying nearby bullets and damaging nearby enemies. Increases curse by 2.5."
+,Face Melter,Squiddley-squiddley-wheeyooo!,,Automatic,600,600,4,0.10,1.2,15,15,13,6,"Simultaneously fires music notes in four directions. Places an amplifier on the ground at the player's position upon reloading. Whenever the Face Melter is fired, the amplifier will fire music notes in the same pattern. Reloading again will remove the amplifier and place a new one."
+,Really Special Lute,,,,,,,,,,,,,
+,Trident,Under The Sea,,Semiautomatic,6,300,8,0.08,1.0,600,,4,0,Fires a long-range laser that pierces one enemy. Destroys nearby bullets and pushes enemies away while reloading.
+,Kruller Glaive,Studied the Blade,,Charged,1,,,,,,,,,"Throws a boomerang-like projectile that homes in on multiple enemies, damaging and sometimes stunning them."
+,Abyssal Tentacle,Look Away,,Beam,500,500,22.5/s,0.10,N/A,,30,10,0,"Fires a tentacle that homes in on and grips enemies, damaging them."
+,Quad Laser,No One Can Defeat It,,Semiautomatic,1,50,80,0.07,1.5,1,15,32,5,"Fires a large, square, extremely slow bullet."
+,Tetrominator,LINE PIECE!,,Semiautomatic,13,301,,,,,,,,"Fires random tetrominoes that stick to enemies. Line pieces explode, dealing more damage the more tetrominoes are stuck to an enemy."
+,Pitchfork,Get Forked!,,Semiautomatic,100,200,4,0.15,0.0,23,,35,5,Fires piercing fireballs that burn.
+,Evolver,Tamagunchi,,,,,,,,,,,,Killing enemies evolves the gun through 6 forms.
+,Gungeon Ant,What Army?,,Semiautomatic,6,100,Oil: 6 (2x3) Fire: 4.5 (1.5x3),0,1.2,26,,25,0,"In oil mode, creates oil puddles on impact. In fire mode, fires fireballs that pierce and burn. Reloading switches modes."
+,Life Orb,Your Soul is Mine,,Beam,600,600,20/s,0.10,,,,,,"After killing an enemy, reloading damages all enemies in the room."
+,Alien Engine,The Dangerzone,,Automatic,400,1000,10,0.02,0.9,30,3,10,0,"Rapid fire weapon that has a very short range, only damaging enemies that come into contact with the muzzle flash. Enemies damaged have a chance to catch on fire. Extremely high recoil."
+,Microtransaction Gun,Pay To Win,,Semiautomatic,Equal to Coins held,-,2/8/15/20,0.20,N/A,,,,,"Shoots various figurines, books, and gems at the cost of 1 coin per shot."
+,Poxcannon,Lousy T-Shirt,,Semiautomatic,6,250,15,0.35,1.7,25,,60,5,Shoots poisonous t-shirts with high knockback. Poisoned enemies create a poison puddle on death.
+,T-Shirt Cannon,Machine Gun Wash Only!,,Semiautomatic,6,250,8,0.35,0.9,25,,60,5,Fires t-shirts that have high knockback.
+,Banana,Planpain,,Charged,7,50,10 (impact) + 30 (explosion),1.00,0.01,23,,35,6,Fires an explosive banana that sends out three more bouncing explosive bananas.
+,Bee Hive,Bzzzzzzz!,,Automatic,150,300,3,0.10,0.06,9,,2,90,Fires bees that home in on and damage enemies.
+,Silencer,300 Dead Count,,Semiautomatic,8,200,13,0.60,1.5,23,60,30,5,Fires zippers. Hitting an enemy with the swing of the weapon will stun the enemy.
+,Camera,Say Cheese,,Charged,4,60,10,0.20,2.0,60,,1,7,"Damages all enemies in the room, with a chance to stun."
+,Directional Pad,Input Output,,Automatic,30,120,"8 (normal)
+45 (fireball)
+10 (grappling hook)",0.30,1.6,,,,,"Fires bullets in four directions. Combos can be entered to fire fireballs or a grappling hook. After running out of ammo, it is destroyed but spawns a chest."
+,3rd Party Controller,Assuming Direct Control,,Semiautomatic,10,300,,,,,,,,"Upon hitting an enemy, they will move in the same direction the player moves, and shoot towards the crosshair if the player shoots."
+,Gunzheng,Hustle,,Automatic,350,800,6,0.07,0.0,32,,8,35,"Rapidly fires inaccurate, piercing, homing arrows."
+,Sling,Outrageous!,,Charged,1,80,25,0.10,0.9,23,,35,0,Fires bouncing rocks. Deals 2.5x damage to bosses and 2x damage after bouncing.
+,Cactus,1000 Needles!,,Automatic,1000,1000,2.5,0.10,0.0,60,,1,7,Fires needles.
+,Black Hole Gun,Won't You Come,,Charged,1,30,10,1.00,1.56,4,,9,0,Fires black holes that attract enemies and enemy bullets.
+,BSG,Big Shooty Gun,,Charged,1,25,50,4.00,2.4,25,,10,0,Slowly charges up to fire a large high-damage projectile.
+,Compressed Air Tank,You Know My Work,,Charged,1,50,50,0.60,1.2,35,,60,6,"Fires sharks that swim around the room, seeking enemies and biting them."
+,Serious Cannon,Seriously MENTAL,,Charged,1,30,50,0.60,1.5,35,,60,6,Fires large bouncing cannonballs.
+,Makeshift Cannon,You Only Get One Shot,,Charged,1,1,1213.3 (approx),0.50,2.1,35,,60,6,Fires a single blast that deals a large amount of damage.
+,Devolver,Degenerates,,Semiautomatic,6,100,6,,,,,,,Has a chance to devolve enemies into simpler enemies.
